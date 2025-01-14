@@ -158,6 +158,6 @@ also https://www.asciiart.eu/art-and-design/geometries
 
 
 
-_open ranka!_
+_open anahata!_
 
 ![stardust-breaker](https://github.com/user-attachments/assets/236b7820-9887-45a3-b8b4-ff5919ddfeac)
