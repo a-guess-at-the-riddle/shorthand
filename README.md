@@ -104,17 +104,27 @@ phonetic harmony
 ```
 "tetra cards"
 
-*---------|---------*
-|         |         |
-|         |         |
-|         |         |
-|         |         |
-*---------*---------|
-|         |         |
-|         |         |
-|         |         |
-|         |         |
-*---------|---------*
+*------------------*
+|  +------+.       |
+|  |`.    | `.     |
+|  |  `+--+---+    |
+|  |   |  |   |    |
+|  +---+--+   |    |
+|   `. |   `. |    |
+|     `+------+    |
+*------------------*
+
+*--------------------*
+|    f     |    t    |
+|    o     |    o    |
+|    r     |    n    |
+|    m     |    e    |
+*----------*---------|
+|    h     |    w    |
+|    u     |    o    |
+|    e     |    r    |
+|          |    d    |
+*----------|---------*
 ```
 
 `> ASPECTUAL_PROJECTION e.g. tetra_tetrahedra-red-m2-/b/ > COLOR = RED`
@@ -122,6 +132,7 @@ phonetic harmony
 
 (ASCII-mode)?
 https://asciidiagrams.github.io/
+also https://www.asciiart.eu/art-and-design/geometries
 
 
 TO-DO
