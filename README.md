@@ -11,6 +11,7 @@ medium.com draft link: https://medium.com/@a-guess-at-the-riddle/archetypal-taxo
 polyhedra, color harmony, music harmony, "WORD" (e.g. phonemes) harmony
 CRYSTAL_**FORM**: {PROPERTIES × OBJECTS = PROCESS}
 
+```
 *----------*---------------*------------------*------------------*
 *   form   *   as-object   *    as-property   *     as-process   *
 *----------*---------------*------------------*------------------*
@@ -20,7 +21,9 @@ CRYSTAL_**FORM**: {PROPERTIES × OBJECTS = PROCESS}
 |   dodeca |  dodecahedron |  dodecahedronal  |  dodecahedronize |
 |   icosa  |  icosahedron  |  icosahedronal   |  icosahedronize  |
 *----------*---------------*------------------*------------------*
+```
 
+```
 *----------------------*
 *        color         *
 *----------------------*
@@ -31,7 +34,7 @@ CRYSTAL_**FORM**: {PROPERTIES × OBJECTS = PROCESS}
 |  blue     |  yellow  |
 |  magenta  |  green   |
 *-----------*----------*
-
+```
 
 * music *
 Perfect unison
