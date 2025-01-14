@@ -141,4 +141,4 @@ TO-DO
 
 open ranka!
 
-[colored sphere, breaker of the stardust](/break-the-dust.png)
+[rainbow sphere](/stardustbreaker.png)
