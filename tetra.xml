@@ -1,6 +1,13 @@
 <!DOCTYPE tetra
 
 [
+
+<!ELEMENT (tetracard,triadcard,doublecard,monocard)>
+<!ELEMENT tetracard (#PCDATA)>
+<!ELEMENT triadcard (#PCDATA)>
+<!ELEMENT doublecard (#PCDATA)>
+<!ELEMENT monocard (#PCDATA)>
+
 <!ELEMENT (tetrahedron,hexahedron,octahedraon,dodecahedron,icoshedron)>
 <!ELEMENT tetrahedron (#PCDATA)>
 <!ELEMENT hexahedron (#PCDATA)>
