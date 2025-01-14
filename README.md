@@ -141,4 +141,6 @@ TO-DO
 
 open ranka!
 
-[rainbow sphere](/stardustbreaker.png)
+[Sensus communis, stardust breaker](/shorthand/stardustbreaker.png)
+[logo]: https://github.com/a-guess-at-the-riddle/shorthand/raw/master/stardustbreaker.png "Sensus Communis"
+
