@@ -98,6 +98,7 @@ color harmony
 music harmony
 phonetic harmony
 
+```
 "tetra cards"
 
 *---------|---------*
@@ -111,8 +112,9 @@ phonetic harmony
 |         |         |
 |         |         |
 *---------|---------*
+```
 
-> ASPECTUAL_PROJECTION e.g. tetra_tetrahedra-red-m2-/b/ > COLOR = RED
+`> ASPECTUAL_PROJECTION e.g. tetra_tetrahedra-red-m2-/b/ > COLOR = RED`
 
 
 (ASCII-mode)?
