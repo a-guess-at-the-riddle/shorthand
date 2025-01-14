@@ -1,4 +1,7 @@
 # shorthand
+
+> "Love is the one thing we're capable of perceiving that transcends dimensions of time and space."
+
 A shorthand markup language and UI API for rendering into various mediums.
 
 
