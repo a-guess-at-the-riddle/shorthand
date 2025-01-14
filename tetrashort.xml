@@ -1,0 +1,81 @@
+<!DOCTYPE tetra
+
+[
+<!ELEMENT (tetrahedron,hexahedron,octahedraon,dodecahedron,icoshedron)>
+<!ELEMENT tetrahedron (#PCDATA)>
+<!ELEMENT hexahedron (#PCDATA)>
+<!ELEMENT octahedron (#PCDATA)>
+<!ELEMENT dodecahedron (#PCDATA)>
+<!ELEMENT icosahedron (#PCDATA)>
+
+<!ELEMENT (black,gray)>
+<!ELEMENT black (#PCDATA)>
+<!ELEMENT white (#PCDATA)>
+
+<!ELEMENT (lighttgrey,graywhite, gray,darkgray, greyblack)>
+<!ELEMENT lightgray (#PCDATA)>
+<!ELEMENT graywhite (#PCDATA)>
+<!ELEMENT gray (#PCDATA)>
+<!ELEMENT darkgrey (#PCDATA)>
+<!ELEMENT grayblack (#PCDATA)>
+]>
+
+
+<!ELEMENT (red,yellow,green,cyan,blue,purple)>
+<!ELEMENT red (#PCDATA)>
+<!ELEMENT yellow (#PCDATA)>
+<!ELEMENT green (#PCDATA)>
+<!ELEMENT cyan (#PCDATA)>
+<!ELEMENT blue (#PCDATA)>
+<!ELEMENT purple (#PCDATA)>
+
+
+<!ELEMENT (perfect_unison,minor_second,major_second,minor_third,major_third,perfect_fourth,augmented_fourth,diminished_fifth,perfect_fifth,minor_sixth,major_sixth,minor_seventh,major_seventh,perfect_octave)>
+<!ELEMENT perfect_unison (#PCDATA)>
+<!ELEMENT minor_second (#PCDATA)>
+<!ELEMENT major_second (#PCDATA)>
+<!ELEMENT minor_third (#PCDATA)>
+<!ELEMENT major_third (#PCDATA)>
+<!ELEMENT perfect_fourth (#PCDATA)>
+<!ELEMENT augmented_fourth (#PCDATA)>
+<!ELEMENT diminished_fifth (#PCDATA)>
+<!ELEMENT perfect_fifth (#PCDATA)>
+<!ELEMENT minor_sixth (#PCDATA)>
+<!ELEMENT major_sixth (#PCDATA)>
+<!ELEMENT minor_seventh (#PCDATA)>
+<!ELEMENT major_seventh (#PCDATA)>
+<!ELEMENT perfect_octave (#PCDATA)>
+
+<!ELEMENT (voiced, unvoiced, bilabial, labiodental, dental, alveolar, postalveolar, retrofelx, palatal, velar, uvular, pharyngeal, glottal, plosive, nasal, trill, tap/flap, fricative, lateral fricative, approximant, lateral approximant, front, central back, close close-mid, open-mid, open)>
+<!ELEMENT voiced (#PCDATA)>
+<!ELEMENT unvoiced (#PCDATA)>
+<!ELEMENT bilabial (#PCDATA)>
+<!ELEMENT labiodental (#PCDATA)>
+<!ELEMENT dental (#PCDATA)>
+<!ELEMENT alveolar (#PCDATA)>
+<!ELEMENT postalveolar (#PCDATA)>
+<!ELEMENT retrofelx (#PCDATA)>
+<!ELEMENT palatal (#PCDATA)>
+<!ELEMENT velar (#PCDATA)>
+<!ELEMENT uvular (#PCDATA)>
+<!ELEMENT pharyngeal (#PCDATA)>
+<!ELEMENT glottal (#PCDATA)>
+<!ELEMENT plosive (#PCDATA)>
+<!ELEMENT nasal (#PCDATA)>
+<!ELEMENT trill (#PCDATA)>
+<!ELEMENT tap (#PCDATA)> <!-- "tap" or "flap"? -->
+<!ELEMENT fricative (#PCDATA)>
+<!ELEMENT lateral (#PCDATA)>
+<!ELEMENT fricative (#PCDATA)>
+<!ELEMENT approximant (#PCDATA)>
+<!ELEMENT lateral (#PCDATA)>
+<!ELEMENT approximant (#PCDATA)>
+<!ELEMENT front (#PCDATA)>
+<!ELEMENT central (#PCDATA)>
+<!ELEMENT back (#PCDATA)>
+<!ELEMENT close (#PCDATA)>
+<!ELEMENT close-mid (#PCDATA)>
+<!ELEMENT open-mid (#PCDATA)>
+<!ELEMENT open (#PCDATA)>
+]>
+
