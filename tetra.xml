@@ -1,25 +1,52 @@
 <!DOCTYPE tetra
 
+
+<!-- 
+<!ELEMENT email (head,body)>
+<!ELEMENT head (from,to+,cc*,subject)>
+<!ELEMENT from EMPTY>
+<!ATTLIST from
+          name CDATA #IMPLIED 
+          address CDATA #REQUIRED>
+<!ELEMENT to EMPTY>
+<!ATTLIST to
+          name CDATA #IMPLIED
+          address CDATA #REQUIRED>
+<!ELEMENT cc EMPTY>
+<!ATTLIST cc
+name CDATA #IMPLIED
+address CDATA #REQUIRED>
+<!ELEMENT subject (#PCDATA)>
+<!ELEMENT body (text,attachment*)>
+<!ELEMENT text (#PCDATA)>
+<!ELEMENT attachment EMPTY>
+<!ATTLIST attachment
+          encoding (mime|binhex) "mime"
+          file CDATA #REQUIRED>
+
+-->
+
+
 [
 
-<!ELEMENT (tetracard,triadcard,doublecard,monocard)>
+<!ELEMENT card (tetracard|tricard|doublecard|monocard)>
 <!ELEMENT tetracard (#PCDATA)>
 <!ELEMENT triadcard (#PCDATA)>
 <!ELEMENT doublecard (#PCDATA)>
 <!ELEMENT monocard (#PCDATA)>
 
-<!ELEMENT (tetrahedron,hexahedron,octahedraon,dodecahedron,icoshedron)>
+<!ELEMENT form (tetrahedron|hexahedron|octahedraon|dodecahedron|icoshedron)>
 <!ELEMENT tetrahedron (#PCDATA)>
 <!ELEMENT hexahedron (#PCDATA)>
 <!ELEMENT octahedron (#PCDATA)>
 <!ELEMENT dodecahedron (#PCDATA)>
 <!ELEMENT icosahedron (#PCDATA)>
 
-<!ELEMENT (black,gray)>
+<!ELEMENT darklight (black|white)>
 <!ELEMENT black (#PCDATA)>
 <!ELEMENT white (#PCDATA)>
 
-<!ELEMENT (lighttgrey,graywhite, gray,darkgray, greyblack)>
+<!ELEMENT grayscale (lighttgrey|graywhite|gray|darkgray|greyblack)>
 <!ELEMENT lightgray (#PCDATA)>
 <!ELEMENT graywhite (#PCDATA)>
 <!ELEMENT gray (#PCDATA)>
@@ -28,7 +55,7 @@
 ]>
 
 
-<!ELEMENT (red,yellow,green,cyan,blue,purple)>
+<!ELEMENT color (red|yellow|green|cyan|blue|purple)>
 <!ELEMENT red (#PCDATA)>
 <!ELEMENT yellow (#PCDATA)>
 <!ELEMENT green (#PCDATA)>
@@ -37,7 +64,7 @@
 <!ELEMENT purple (#PCDATA)>
 
 
-<!ELEMENT (perfect_unison,minor_second,major_second,minor_third,major_third,perfect_fourth,augmented_fourth,diminished_fifth,perfect_fifth,minor_sixth,major_sixth,minor_seventh,major_seventh,perfect_octave)>
+<!ELEMENT interval (perfect_unison|minor_second|major_second|minor_third|major_third|perfect_fourth|augmented_fourth|diminished_fifth|perfect_fifth|minor_sixth|major_sixth|minor_seventh|major_seventh|perfect_octave)>
 <!ELEMENT perfect_unison (#PCDATA)>
 <!ELEMENT minor_second (#PCDATA)>
 <!ELEMENT major_second (#PCDATA)>
@@ -53,7 +80,9 @@
 <!ELEMENT major_seventh (#PCDATA)>
 <!ELEMENT perfect_octave (#PCDATA)>
 
-<!ELEMENT (voiced, unvoiced, bilabial, labiodental, dental, alveolar, postalveolar, retrofelx, palatal, velar, uvular, pharyngeal, glottal, plosive, nasal, trill, tap/flap, fricative, lateral fricative, approximant, lateral approximant, front, central back, close close-mid, open-mid, open)>
+<!ELEMENT feature (voiced|unvoiced)
+(bilabial, labiodental, dental, alveolar, postalveolar, retrofelx, palatal, velar, uvular, pharyngeal, glottal, plosive, nasal, trill, tap/flap, fricative, lateral fricative, approximant, lateral approximant)
+(front, central back, close close-mid, open-mid, open)>
 <!ELEMENT voiced (#PCDATA)>
 <!ELEMENT unvoiced (#PCDATA)>
 <!ELEMENT bilabial (#PCDATA)>
