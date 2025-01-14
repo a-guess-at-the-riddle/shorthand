@@ -14,6 +14,8 @@ medium.com draft link: https://medium.com/@a-guess-at-the-riddle/archetypal-taxo
 polyhedra, color harmony, music harmony, "WORD" (e.g. phonemes) harmony
 CRYSTAL_**FORM**: {PROPERTIES × OBJECTS = PROCESS}
 
+## Platonic Harmony
+
 ```
 *----------*---------------*------------------*------------------*
 *   form   *   as-object   *    as-property   *     as-process   *
@@ -26,6 +28,7 @@ CRYSTAL_**FORM**: {PROPERTIES × OBJECTS = PROCESS}
 *----------*---------------*------------------*------------------*
 ```
 
+## Color Harmony
 ```
 *----------------------*
 *        color         *
@@ -39,40 +42,56 @@ CRYSTAL_**FORM**: {PROPERTIES × OBJECTS = PROCESS}
 *-----------*----------*
 ```
 
-* music *
-Perfect unison
-Minor second
-Major second
-Minor third
-Major third
-Perfect fourth
-Augmented fourth
-Diminished fifth
-Perfect fifth
-Minor sixth
-Major sixth
-Minor seventh
-Major seventh
-Perfect octave 
+## Music Harmony
+- Perfect unison
+- Minor second
+- Major second
+- Minor third
+- Major third
+- Perfect fourth
+- Augmented fourth
+- Diminished fifth
+- Perfect fifth
+- Minor sixth
+- Major sixth
+- Minor seventh
+- Major seventh
+- Perfect octave 
 
-Phonemes:
-feature geometry?
+## Phonemic Harmony
+feature geometry???
 
-vowels vs consanants
+- vowels
+- consonants
 
-voiced
-unvoiced
-bilabial
-labiodental
-dental
-alveolar
-postalveolar
-retrofelx
-palatal
-velar, uvular, pharyngeal, glottal, plosive, nasal, trill, tap/flap, fricative, lateral fricative, approximant, lateral approximant, front, central back, close
-close-mid
-open-mid
-open
+
+- voiced
+- unvoiced
+- bilabial
+- labiodental
+- dental
+- alveolar
+- postalveolar
+- retrofelx
+- palatal
+- velar
+- uvular
+- pharyngeal
+- glottal
+- plosive
+- nasal
+- trill
+- tap/flap
+- fricative
+- lateral fricative
+- approximant
+- lateral approximant
+- front
+- central back
+- close
+- close-mid
+- open-mid
+- open
 
 
 IPA (https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart#/media/File:IPA_chart_2020.svg)
@@ -82,24 +101,23 @@ consonants: (voiced, unvoiced) × (bilabial, labiodental, dental, alveolar, post
 vowels: (front, central back) × (close close-mid, open-mid, open)
 
 SVG: https://www.svgrepo.com
+
 3D shape vectors || https://www.svgrepo.com/collection/line-3d-shape-vectors/
+
 https://www.svgrepo.com/collection/shapes-5/
+
 https://www.svgrepo.com/collection/shapes-6/
 
-principle of layering and natural (aboriginal) environmental grounding
+?principle of layering and natural (aboriginal) environmental grounding?
 
 
-ICON SET:
-
+### ICON SET:
 1. ascii identifier
-2. projection
-3. object vs attribute duality
-4. caley tables
+2. aspect projection
+3. object vs attribute duality Q?
+4. Caley tables (group theory)?
 
-polyhedra
-color harmony
-music harmony
-phonetic harmony
+polyhedra, color harmony, music harmony, lexico-phonemic harmony
 
 ```
 "tetra cards"
@@ -117,29 +135,29 @@ phonetic harmony
 *----------|---------*
 ```
 
-`> ASPECTUAL_PROJECTION e.g. tetra_tetrahedra-red-m2-/b/ > COLOR = RED`
+`> ASPECTUAL_PROJECTION: tetracard(tetrahedra-red-m2-/b/) > COLOR_PROPERTY = RED
 
 
-(ASCII-mode)?
+### (ASCII-mode)?
 https://asciidiagrams.github.io/
 also https://www.asciiart.eu/art-and-design/geometries
 
 
-TO-DO
+### TO-DO
 
-1. find free (open-enough copyright) SVG (if at the very least for a model example vector images):
+1. [ ] find free (open-enough copyright) SVG (if at the very least for a model example vector images):
    ** first renderset is for tetra cards **
-   a. platonic solids
-   b. color symbol-glyphs
-   c. musical interval glyphs
-   d. phoneme (word, wtf is grammatology) script characters
+   a. [ ] platonic solids
+   b. [ ] color symbol-glyphs
+   c. [ ] musical interval glyphs
+   d. [ ] phoneme (word, wtf is grammatology) script characters
    
-3. design an XML or similar spec via some (E)BNF-like Data Definition Language (in XML a DTD)
-4. research **icon fonts** and the question of whether unicode-assignments and TeX-like keyboard-UI macros for quick entry
-5. brainstorm usage cases (like rending Caley Diagrams etc)
+3. [ ] design an XML or similar spec via some (E)BNF-like Data Definition Language (in XML a DTD)
+4. [ ] research **icon fonts** and the question of whether unicode-assignments and TeX-like keyboard-UI macros for quick entry
+5. [ ] brainstorm usage cases (like rending Caley Diagrams etc)
 
 
 
-open ranka!
+_open ranka!_
 
 ![stardust-breaker](https://github.com/user-attachments/assets/236b7820-9887-45a3-b8b4-ff5919ddfeac)
