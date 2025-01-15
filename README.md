@@ -185,25 +185,50 @@ polyhedra, color harmony, music harmony, word harmony
 "triple cards"
 
 ```
-              /\
+              /\                           
              /  \
             /    \
            /   f  \
           /    o   \
          /     r    \
         /      m     \
-       /--------------\
-      / \            / \
-     /   \          /   \
-    /  t  \        /  h  \
-   /   o   \      /   u   \
-  /    n    \    /    e    \
- /     e     \  /           \
-/             \/             \
-------------------------------⠀⠀⠀⠀⠀⠀⠀
+       /--------------\                                  /
+      / \            / \                                /
+     /   \          /   \                              /
+    /  t  \        /  h  \                            /
+   /   o   \      /   u   \                          /
+  /    n    \    /    e    \                        /
+ /     e     \  /           \                      /
+/             \/             \                 \  /
+------------------------------⠀⠀⠀⠀⠀⠀⠀          \/
 ```
 
-"double cards", "monocards"...
+"double cards", 
+
+```
+    /\ 
+   /  \
+  /    \
+ /      \
+/        \ 
+\        /
+ \      /
+  \    /
+   \  /
+    \/               
+```
+
+"monocards"
+
+```
+*_________*
+|         |
+|    h    |
+|    u    |
+|    e    |
+*_________*
+```
+
 
 `> ASPECTUAL_PROJECTION: tetracard(tetrahedra-red-m2-/b/) > COLOR_PROPERTY = RED
 
