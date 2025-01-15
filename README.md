@@ -188,7 +188,11 @@ also https://www.asciiart.eu/art-and-design/geometries
 4. [ ] research **icon fonts** and the question of whether unicode-assignments and TeX-like keyboard-UI macros for quick entry
 5. [ ] brainstorm usage cases (like rending Caley Diagrams etc)
 
+---
 
+> "What the world was to Adam on the day he opened his eyes to it, before he had drawn any distinctions, or had become conscious of his own existence - that is first, present, immediate, fresh, new, initiative, original, spontaneous, free, vivid, conscious, and evanescent. Only, remember that every description of it must be false to it." - Charles Sanders Peirce [ref]
+
+![flowerclock](https://github.com/user-attachments/assets/eacdf221-b6bc-45e0-9f62-b86c30971e2e)
 
 _open anahata!_
 
