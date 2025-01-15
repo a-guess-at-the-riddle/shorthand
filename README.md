@@ -1,5 +1,8 @@
 # shorthand
 
+![gravity-coinflip](https://github.com/user-attachments/assets/fa328ab9-bc6a-4f79-941f-326d27f2bff2)
+
+
 > "Love is the one thing we're capable of perceiving that transcends dimensions of time and space."
 
 A shorthand markup language and UI API for rendering into various mediums.
