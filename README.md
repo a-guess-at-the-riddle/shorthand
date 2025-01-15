@@ -261,6 +261,7 @@ mathematical metaphor speak ("abuse of notation")
 
 ### SymmetricGroup(3)
 
+```
 *  a b c d e f
  +------------
 a| a b c d e f
@@ -269,9 +270,9 @@ c| c e a f b d
 d| d f b e a c
 e| e c f a d b
 f| f d e b c a
+```
 
-🟥 🟩 🟦 🟨 🟧 🟪 
-⬛ ⬜ 🟫
+`🟥 🟩 🟦 🟨 🟧 🟪  ⬛ ⬜ 🟫`
 
 ---
 
