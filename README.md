@@ -36,6 +36,8 @@ CRYSTAL_**FORM**: {PROPERTIES × OBJECTS = PROCESS}
 
 > "Prescision is not a reciprocal process. It is frequently the case, that, while _A_ cannot be prescinded from _B_, _B_ can be prescinded from _A_. This circumstance is accounted for as follows. Elementary conceptions only arise upon the occasion of experience; that is, they are produced for the first time according to a general law, the condition ofwhich is the existence of certain impressions. Now if a conception does not reduce the impressions upon which it follows to unity, it is a mere arbitrary addition to these latter; and elementary conceptions do not arise thus arbitrarily. But if the impressions could be definitely comprehended without the conception, this latter would not reduce them to unity. Hence, the impressions (or more immediate conceptions) cannot be definitely conceived or attended to, to the neglect of an elementary conception which reduces them to unity. On the other hand, when such a conception has once been obtained, there is, in general, no reason why the premises which have occasioned it should not be neglected, and therefore the explaining conception may frequently be prescinded from the more immediate ones and from the impressions." Charles Sanders Peirce. "On a New List"
 
+see Masato Ishida. _A Philosophical Commentary On C. S. Peirces On A New List Of Categories Exhibiting Logical Structure And Abiding Relevance_ (PhD Thesis) `https://etda.libraries.psu.edu/files/final_submissions/4550`
+
 
 ## Color Harmony
 ```
