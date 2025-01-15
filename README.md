@@ -257,7 +257,15 @@ also https://www.asciiart.eu/art-and-design/geometries
 ## Further Brainstorming...
 
 mathematical metaphor speak ("abuse of notation")
+e.g. color-quality ratio, color-quality proportion, color-quality analogy
 
+🟩/🟪
+
+🟩 = [ ]🟪
+
+🟩 : 🟪 :: 🟦 : 🟨
+
+/inductive means?/
 🟩, 🟩->🟪, 🟩->🟪->🟩, … -> 🟥
 
  a₁, a₁+ a₂, a₁+ a₂+ a₃, …, b₁, b₁+ b₂, b₁+ b₂+ b₃ …
