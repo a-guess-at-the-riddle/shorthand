@@ -66,12 +66,31 @@ CRYSTAL_**FORM**: {PROPERTIES × OBJECTS = PROCESS}
 - Major seventh
 - Perfect octave 
 
-## Phonemic Harmony
-feature geometry???
+## Word Harmony
+(Lexico-Phonemic harmony)
+feature geometry??? nonlinear phonology, suprasegmental phonology, ...
+
+
+*tiers*
+- Word tier (WORD: "birthday");
+- Foot tier (FOOT);
+- Syllable tier (STRONG vs WEAK);
+- Onset-rime tier (consonant+vowel vs vowel+consonant) (with coda vs without a coda);
+- Skeletal tier;
+- Segmental tier;
+
+---
+
+front-back opponency
+low-high opponency
+vowel-consonant opponency
+voiced-unvoiced opponency
+opponent processing phonology
+manner of articulation vs place of articulation
+place: Labial (Bi­labial Labio­dental Linguo­labial), Coronal, Dorsal, Laryngeal
 
 - vowels
 - consonants
-
 
 - voiced
 - unvoiced
@@ -104,17 +123,17 @@ feature geometry???
 
 IPA (https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart#/media/File:IPA_chart_2020.svg)
 
+syllable: (consonant, vowel) | (vowel, consonant) | (cononant, vowel consonant) | ...
+
 consonants: (voiced, unvoiced) × (bilabial, labiodental, dental, alveolar, postalveolar, retrofelx, palatal, velar, uvular, pharyngeal, glottal) × (plosive, nasal, trill, tap/flap, fricative, lateral fricative, approximant, lateral approximant)
 
 vowels: (front, central back) × (close close-mid, open-mid, open)
 
-SVG: https://www.svgrepo.com
 
-3D shape vectors || https://www.svgrepo.com/collection/line-3d-shape-vectors/
-
-https://www.svgrepo.com/collection/shapes-5/
-
-https://www.svgrepo.com/collection/shapes-6/
+- SVG: https://www.svgrepo.com
+- 3D shape vectors || https://www.svgrepo.com/collection/line-3d-shape-vectors/
+- https://www.svgrepo.com/collection/shapes-5/
+- https://www.svgrepo.com/collection/shapes-6/
 
 ?principle of layering and natural (aboriginal) environmental grounding?
 
@@ -122,10 +141,10 @@ https://www.svgrepo.com/collection/shapes-6/
 ### ICON SET:
 1. ascii identifier
 2. aspect projection
-3. object vs attribute duality Q?
-4. Caley tables (group theory)?
+3. object vs attribute duality?
+4. larger diagrammatic embedding (e.g. Caley tables)?
 
-polyhedra, color harmony, music harmony, lexico-phonemic harmony
+polyhedra, color harmony, music harmony, word harmony
 
 ```
 "tetra cards"
