@@ -251,6 +251,28 @@ also https://www.asciiart.eu/art-and-design/geometries
 4. [ ] research **icon fonts** and the question of whether unicode-assignments and TeX-like keyboard-UI macros for quick entry
 5. [ ] brainstorm usage cases (like rending Caley Diagrams etc) `https://en.wikipedia.org/wiki/Cayley_table`
 
+## Further Brainstorming...
+
+mathematical metaphor speak ("abuse of notation")
+
+🟩, 🟩->🟪, 🟩->🟪->🟩, … -> 🟥
+
+ a₁, a₁+ a₂, a₁+ a₂+ a₃, …, b₁, b₁+ b₂, b₁+ b₂+ b₃ …
+
+### SymmetricGroup(3)
+
+*  a b c d e f
+ +------------
+a| a b c d e f
+b| b a d c f e
+c| c e a f b d
+d| d f b e a c
+e| e c f a d b
+f| f d e b c a
+
+🟥 🟩 🟦 🟨 🟧 🟪 
+⬛ ⬜ 🟫
+
 ---
 
 > "What the world was to Adam on the day he opened his eyes to it, before he had drawn any distinctions, or had become conscious of his own existence - that is first, present, immediate, fresh, new, initiative, original, spontaneous, free, vivid, conscious, and evanescent. Only, remember that every description of it must be false to it." - Charles Sanders Peirce [ref]
