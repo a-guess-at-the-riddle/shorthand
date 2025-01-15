@@ -188,19 +188,19 @@ polyhedra, color harmony, music harmony, word harmony
               /\
              /  \
             /    \
-           /      \
-          /        \
-         /          \
-        /            \
+           /   f  \
+          /    o   \
+         /     r    \
+        /      m     \
        /--------------\
       / \            / \
      /   \          /   \
-    /     \        /     \
-   /       \      /       \
-  /         \    /         \
- /           \  /           \
+    /  t  \        /  h  \
+   /   o   \      /   u   \
+  /    n    \    /    e    \
+ /     e     \  /           \
 /             \/             \
-------------------------------⠀⠀⠀⠀⠀⠀⠀⠀
+------------------------------⠀⠀⠀⠀⠀⠀⠀
 ```
 
 "double cards", "monocards"...
@@ -224,7 +224,7 @@ also https://www.asciiart.eu/art-and-design/geometries
    
 3. [ ] design an XML or similar spec via some (E)BNF-like Data Definition Language (in XML a DTD)
 4. [ ] research **icon fonts** and the question of whether unicode-assignments and TeX-like keyboard-UI macros for quick entry
-5. [ ] brainstorm usage cases (like rending Caley Diagrams etc)
+5. [ ] brainstorm usage cases (like rending Caley Diagrams etc) `https://en.wikipedia.org/wiki/Cayley_table`
 
 ---
 
