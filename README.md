@@ -41,16 +41,16 @@ see Masato Ishida. _A Philosophical Commentary On C. S. Peirces On A New List Of
 
 ## Color Harmony
 ```
-*----------------------*
-*        color         *
-*----------------------*
-|  red      |  cyan    |
-|  yellow   |  blue    |
-|  green    |  magenta |
-|  cyan     |  red     |
-|  blue     |  yellow  |
-|  magenta  |  green   |
-*-----------*----------*
+*----------*---------------*---------------*--------------*
+*   form   *   as-object   *  as-property  *  as-process  *
+*----------*---------------*---------------*--------------*
+|  red      |  redness     |  redish       |  redize      |
+|  yellow   |  yellowness  |  yellowish    |  yellowize   |
+|  green    |  greenness   |  greenish     |  greenize    |
+|  cyan     |  cyanness    |  cyanish      |  cyanize     |
+|  blue     |  blueness    |  blueish      |  blueize     |
+|  magenta  |  magentaness |  magentish    |  magentize   |
+*-----------*----------*----------------------*-----------|
 ```
 
 ## Music Harmony
@@ -67,7 +67,9 @@ see Masato Ishida. _A Philosophical Commentary On C. S. Peirces On A New List Of
 - Major sixth
 - Minor seventh
 - Major seventh
-- Perfect octave 
+- Perfect octave
+
+---
 
 ## Word Harmony
 (Lexico-Phonemic harmony)
