@@ -229,11 +229,14 @@ polyhedra, color harmony, music harmony, word harmony
 *_________*
 ```
 
+### CONSOLE (ASCII) MODE?
+
+/e.g./
 
 `> ASPECTUAL_PROJECTION: tetracard(tetrahedra-red-m2-/b/) > COLOR_PROPERTY = RED
 
 
-### (ASCII-mode)?
+/see/
 https://asciidiagrams.github.io/
 also https://www.asciiart.eu/art-and-design/geometries
 
