@@ -182,43 +182,44 @@ polyhedra, color harmony, music harmony, word harmony
 *----------|---------*
 ```
 
-"triple cards"
+"triple cards"?
 
-```
-              /\                           
-             /  \
-            /    \
-           /   f  \
-          /    o   \
-         /     r    \
-        /      m     \
-       /--------------\                                  /
-      / \            / \                                /
-     /   \          /   \                              /
-    /  t  \        /  h  \                            /
-   /   o   \      /   u   \                          /
-  /    n    \    /    e    \                        /
- /     e     \  /           \                      /
+```                              ________________________________
+              /\                 \             /  \             /
+             /  \                 \     h     /    \     f     /
+            /    \                 \    u    /      \    o    /
+           /   f  \                 \   e   /        \   r   /
+          /    o   \                 \     /          \  m  /
+         /     r    \                 \   /            \   /
+        /      m     \                 \ /              \ /
+       /--------------\                 \----------------/
+      / \            / \                 \       f      /
+     /   \          /   \                 \      o     /
+    /  t  \        /  h  \                 \     r    /
+   /   o   \      /   u   \                 \    m   /
+  /    n    \    /    e    \                 \      /
+ /     e     \  /           \                 \    /
 /             \/             \                 \  /
 ------------------------------⠀⠀⠀⠀⠀⠀⠀          \/
 ```
 
-"double cards", 
+"double cards"? 
 
 ```
     /\ 
    /  \
   /    \
- /      \
-/        \ 
-\        /
+ / form \
+/        \
+----------
+\  hue   /
  \      /
   \    /
    \  /
     \/               
 ```
 
-"monocards"
+"monocards"?
 
 ```
 *_________*
@@ -284,6 +285,10 @@ f| f d e b c a
 ```
 
 `🟥 🟩 🟦 🟨 🟧 🟪  ⬛ ⬜ 🟫`
+
+A Phenomenological "Erlangen Program"? (symmetry: invariance & change)
+🟩->🟪->🟦 (invariant shape :: transformation of color)
+🟩->🟢->💚 (invariant of color :: transformation of shape)
 
 ---
 
