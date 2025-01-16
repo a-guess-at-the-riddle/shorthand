@@ -288,7 +288,9 @@ f| f d e b c a
 `🟥 🟩 🟦 🟨 🟧 🟪  ⬛ ⬜ 🟫`
 
 A Phenomenological "Erlangen Program"? (symmetry: invariance & change)
+
 🟩->🟪->🟦 (invariant shape :: transformation of color)
+
 🟩->🟢->💚 (invariant of color :: transformation of shape)
 
 ---
