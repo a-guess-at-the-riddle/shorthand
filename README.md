@@ -303,7 +303,12 @@ A Phenomenological "Erlangen Program"? (symmetry: invariance & change)
 - LuaTeX reference manual: https://mirrors.ibiblio.org/CTAN/systems/doc/luatex/luatex.pdf
 - LaTeX fontspec manual: https://mirror.ox.ac.uk/sites/ctan.org/macros/unicodetex/latex/fontspec/fontspec.pdf
 - OverLeaf: https://www.overleaf.com/
-- OpenType fonts?
+- Fontforge: https://fontforge.org
+- Metafont: https://en.wikipedia.org/wiki/Metafont
+
+Yannis Haralambous. _Fonts & Encodings_ (2007)
+![250w](https://github.com/user-attachments/assets/e799da90-81b4-4cc0-baa8-eeae399d416f)
+
 
 ---
 
@@ -311,29 +316,8 @@ A Phenomenological "Erlangen Program"? (symmetry: invariance & change)
 <img width="595" alt="Screenshot 2025-01-17 at 9 22 19 AM" src="https://github.com/user-attachments/assets/aa721d2f-48a8-46ee-8ff9-f54222d280c7" />
 
 
+
 ---
-
-FontAwesome?
-
-`\newcommand*\floppy{{\fontawesome{}}}`
-
-```
-\documentclass[border=10pt]{standalone}
-\usepackage{fontawesome}
-\setmainfont{Linux Libertine O}
-\def\floppyA{{\FA}}
-\let\floppyB\faSave
-\let\\floppyB
-
-\begin{document}
-Some awesome icons:
-\faSave\   %%% loads automatically  the awesome icons
-\floppyA\ 
-\floppyB\  
-\
-
-\end{document}
-```
 
 TETRAHEDRONIZE!
 
