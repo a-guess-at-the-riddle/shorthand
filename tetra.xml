@@ -14,8 +14,8 @@
           address CDATA #REQUIRED>
 <!ELEMENT cc EMPTY>
 <!ATTLIST cc
-name CDATA #IMPLIED
-address CDATA #REQUIRED>
+          name CDATA #IMPLIED
+          address CDATA #REQUIRED>
 <!ELEMENT subject (#PCDATA)>
 <!ELEMENT body (text,attachment*)>
 <!ELEMENT text (#PCDATA)>
@@ -37,6 +37,12 @@ address CDATA #REQUIRED>
 
 <!ELEMENT form (tetrahedron|hexahedron|octahedraon|dodecahedron|icoshedron)>
 <!ELEMENT tetrahedron (#PCDATA)>
+<!--
+<!ATTLIST tetrahedron
+          color (red|yellow|green|cyan|blue|purple)
+          interval (perfect_unison|minor_second|major_second|minor_third|major_third|perfect_fourth|augmented_fourth|diminished_fifth|perfect_fifth|minor_sixth|major_sixth|minor_seventh|major_seventh|perfect_octave))
+          word (THE|QUICK|BROWN|FOX)>
+-->
 <!ELEMENT hexahedron (#PCDATA)>
 <!ELEMENT octahedron (#PCDATA)>
 <!ELEMENT dodecahedron (#PCDATA)>
