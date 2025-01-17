@@ -304,9 +304,13 @@ A Phenomenological "Erlangen Program"? (symmetry: invariance & change)
 - LaTeX fontspec manual: https://mirror.ox.ac.uk/sites/ctan.org/macros/unicodetex/latex/fontspec/fontspec.pdf
 - OverLeaf: https://www.overleaf.com/
 - Fontforge: https://fontforge.org
+- Design with Fontforge: http://designwithfontforge.com/
 - Metafont: https://en.wikipedia.org/wiki/Metafont
 
+
+
 Yannis Haralambous. _Fonts & Encodings_ (2007)
+
 ![250w](https://github.com/user-attachments/assets/e799da90-81b4-4cc0-baa8-eeae399d416f)
 
 
