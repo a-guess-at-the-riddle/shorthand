@@ -235,7 +235,7 @@ polyhedra, color harmony, music harmony, word harmony
 
 /e.g./
 
-`> ASPECTUAL_PROJECTION: tetracard(tetrahedra-red-m2-/b/) > COLOR_PROPERTY = RED
+`> ASPECTUAL_PROJECTION: tetracard(tetrahedra-red-m2-/b/) > COLOR_PROPERTY` `=> RED`
 
 
 /see/
