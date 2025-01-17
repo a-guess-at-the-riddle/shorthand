@@ -296,9 +296,13 @@ A Phenomenological "Erlangen Program"? (symmetry: invariance & change)
 ---
 
 ### LaTeX Notes
-LuaTeX (fontspec)
-LuaTeX homepage: https://www.luatex.org || wiki: https://wiki.luatex.org/index.php/Main_Page
-fontspec manual: https://mirror.ox.ac.uk/sites/ctan.org/macros/unicodetex/latex/fontspec/fontspec.pdf
+- LaTeX Comprehensive Symbol List: https://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf
+- LuaTeX (fontspec)
+- LuaTeX homepage: https://www.luatex.org || wiki: https://wiki.luatex.org/index.php/Main_Page
+- A Guide to LuaTeX: https://mirror.las.iastate.edu/tex-archive/obsolete/info/luatex/lualatex-doc/lualatex-doc.pdf
+- LuaTeX reference manual: https://mirrors.ibiblio.org/CTAN/systems/doc/luatex/luatex.pdf
+- LaTeX fontspec manual: https://mirror.ox.ac.uk/sites/ctan.org/macros/unicodetex/latex/fontspec/fontspec.pdf
+- OverLeaf: https://www.overleaf.com/
 
 FontAwesome?
 
@@ -321,6 +325,11 @@ Some awesome icons:
 
 \end{document}
 ```
+
+TETRAHEDRONIZE!
+
+<img width="874" alt="Screenshot 2025-01-16 at 7 03 32 PM" src="https://github.com/user-attachments/assets/2df28832-a4a1-4599-892b-b38742fc3c51" />
+
 
 ---
 
