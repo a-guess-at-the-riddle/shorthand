@@ -65,22 +65,22 @@ _see_ Masato Ishida. _A Philosophical Commentary On C. S. Peirces On A New List 
 `(1) perfect unison; (2) minor second; (3) major second; (4) minor third; (5) major third; (6) perfect fourth; (7) augmented fourth; (8) diminished fifth; (9) perfect fifth; (10) minor sixth; (11) major sixth; (12) minor seventh; (13) major seventh; (14) perfect octave;`
 
 ```
-*-------------*-----------------*----------------*--------------*
-*    form     *    as-object    *   as-property  *  as-process  *
-*-------------*-----------------*----------------*--------------*
-*   unison    |  unisoness      |  unisonal      | unisonize    |
-*   minsec    |  minsecondness  |  minsecondal   | minsecondize |
-*   majsec    |  majseconness   |  majsecondal   | majsecondize |
-*  minthird   |  minthirdness   |  minthirdal    | minthirdize  |
-*  majthird   |  majthirdness   |  majthirdal    |
-*  perfourth  |  perfourthness  |  perfourthal   |
-*  augfourth  |  augfourthness  |  augfourthal   |
-*  dimfifth   |  dimfifthness   |  dimfifthal    |
-*  perfifth   |  perfifthness   |  perfifthal    |
-*  minsixth   |  minsixthness   |  minsixthal    |
-*  minseventh |  minseventhness |  minseventhal  |
-*  majseventh |  majseventhness |  majseventhnal |
-*  octave     |  octaveness     |  octaval
+*-------------*-----------------*----------------*---------------*
+*    form     *    as-object    *   as-property  *  as-process   *
+*-------------*-----------------*----------------*---------------*
+*   unison    |  unisoness      |  unisonal      | unisonize     |
+*   minsec    |  minsecondness  |  minsecondal   | minsecondize  |
+*   majsec    |  majseconness   |  majsecondal   | majsecondize  |
+*  minthird   |  minthirdness   |  minthirdal    | minthirdize   |
+*  majthird   |  majthirdness   |  majthirdal    | majthirdize   |
+*  perfourth  |  perfourthness  |  perfourthal   | perfourthize  |
+*  augfourth  |  augfourthness  |  augfourthal   | augfourthize  |
+*  dimfifth   |  dimfifthness   |  dimfifthal    | dimfifthize   |
+*  perfifth   |  perfifthness   |  perfifthal    | perfifthize   |
+*  minsixth   |  minsixthness   |  minsixthal    | minsizthize   |
+*  minseventh |  minseventhness |  minseventhal  | minseventhize |
+*  majseventh |  majseventhness |  majseventhnal | majseventhize |
+*  octave     |  octaveness     |  octaval       | octavize      |
 *---------------------------------------------------------------*
 ```
 
@@ -289,9 +289,9 @@ f| f d e b c a
 
 A Phenomenological "Erlangen Program"? (symmetry: invariance & change)
 
-🟩->🟪->🟦 (invariant shape :: transformation of color)
+🟩->🟪->🟦 (invariant shape + transformation of color)
 
-🟩->🟢->💚 (invariant of color :: transformation of shape)
+🟩->🟢->💚 (invariant color + transformation of shape)
 
 ---
 
@@ -303,6 +303,15 @@ A Phenomenological "Erlangen Program"? (symmetry: invariance & change)
 - LuaTeX reference manual: https://mirrors.ibiblio.org/CTAN/systems/doc/luatex/luatex.pdf
 - LaTeX fontspec manual: https://mirror.ox.ac.uk/sites/ctan.org/macros/unicodetex/latex/fontspec/fontspec.pdf
 - OverLeaf: https://www.overleaf.com/
+- OpenType fonts?
+
+---
+
+<img width="644" alt="Screenshot 2025-01-17 at 9 22 07 AM" src="https://github.com/user-attachments/assets/016486e4-6ce2-435f-9171-d316712b1f91" />
+<img width="595" alt="Screenshot 2025-01-17 at 9 22 19 AM" src="https://github.com/user-attachments/assets/aa721d2f-48a8-46ee-8ff9-f54222d280c7" />
+
+
+---
 
 FontAwesome?
 
