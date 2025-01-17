@@ -312,6 +312,7 @@ A Phenomenological "Erlangen Program"? (symmetry: invariance & change)
 Yannis Haralambous. _Fonts & Encodings_ (2007)
 
 ![250w](https://github.com/user-attachments/assets/e799da90-81b4-4cc0-baa8-eeae399d416f)
+![250w-2](https://github.com/user-attachments/assets/9f8b4370-b955-420c-9c67-fd973d689a7c)
 
 
 ---
@@ -319,6 +320,24 @@ Yannis Haralambous. _Fonts & Encodings_ (2007)
 <img width="644" alt="Screenshot 2025-01-17 at 9 22 07 AM" src="https://github.com/user-attachments/assets/016486e4-6ce2-435f-9171-d316712b1f91" />
 <img width="595" alt="Screenshot 2025-01-17 at 9 22 19 AM" src="https://github.com/user-attachments/assets/aa721d2f-48a8-46ee-8ff9-f54222d280c7" />
 
+---
+
+Writing Systems: https://en.wikipedia.org/wiki/Writing_system
+Florian Coulmas. _The Writing Systems of the World_ (1989, 1991)
+Peter T. Daniels, ‎William Bright. _The World's Writing Systems_ (1996)
+Young-Key Kim-Renaud. _The Korean Alphabet: Its History and Structure_ (1997)
+
+Hangul/featural (in particular morpho-syllabic blocks): https://en.wikipedia.org/wiki/Hangul
+Hangul consonant and vowel tables: https://en.wikipedia.org/wiki/Hangul_consonant_and_vowel_tables
+
+- _Korean Language Writing Practice Book - Learn to Write Korean Hangul Correctly_ (2020)
+- _Korean Hangul for Beginners_. `https://www.tuttlepublishing.com/korean-hangul-for-beginners`
+- _Hangeul Master: Learn to read and write in Korean_ (2022)
+
+
+???
+https://en.wikipedia.org/wiki/Braille
+https://en.wikipedia.org/wiki/Sign_language
 
 
 ---
