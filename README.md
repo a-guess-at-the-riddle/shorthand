@@ -328,7 +328,7 @@ Some awesome icons:
 
 TETRAHEDRONIZE!
 
-<img width="874" alt="Screenshot 2025-01-16 at 7 03 32 PM" src="https://github.com/user-attachments/assets/2df28832-a4a1-4599-892b-b38742fc3c51" />
+![tetrahedronize](https://github.com/user-attachments/assets/f92bac1c-4496-4ae2-9d11-a6c1d4fedf4b)
 
 
 ---
