@@ -295,6 +295,35 @@ A Phenomenological "Erlangen Program"? (symmetry: invariance & change)
 
 ---
 
+### LaTeX Notes
+LuaTeX (fontspec)
+LuaTeX homepage: https://www.luatex.org || wiki: https://wiki.luatex.org/index.php/Main_Page
+fontspec manual: https://mirror.ox.ac.uk/sites/ctan.org/macros/unicodetex/latex/fontspec/fontspec.pdf
+
+FontAwesome?
+
+`\newcommand*\floppy{{\fontawesome{}}}`
+
+```
+\documentclass[border=10pt]{standalone}
+\usepackage{fontawesome}
+\setmainfont{Linux Libertine O}
+\def\floppyA{{\FA}}
+\let\floppyB\faSave
+\let\\floppyB
+
+\begin{document}
+Some awesome icons:
+\faSave\   %%% loads automatically  the awesome icons
+\floppyA\ 
+\floppyB\  
+\
+
+\end{document}
+```
+
+---
+
 > "What the world was to Adam on the day he opened his eyes to it, before he had drawn any distinctions, or had become conscious of his own existence - that is first, present, immediate, fresh, new, initiative, original, spontaneous, free, vivid, conscious, and evanescent. Only, remember that every description of it must be false to it." - Charles Sanders Peirce [ref]
 
 > _open anahata!_
