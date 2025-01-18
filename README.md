@@ -393,7 +393,7 @@ So this concept is akin to a rebus where every letterform is itself a mnemonic-a
 - https://en.wikipedia.org/wiki/Constellation
 - https://en.wikipedia.org/wiki/Rebus
 
-![Arolsen_Klebeband_18_041_3](https://github.com/user-attachments/assets/5b812bbc-7a7b-4468-a117-c45e585bf876)
+![Rebus_escort_card](https://github.com/user-attachments/assets/3b2e6aea-7c8c-482d-9322-a12da755b212)
 
 
 ---
