@@ -386,6 +386,8 @@ With all elemental letters we might design these dots to cohere with the general
 as the image of an archetype. In short this is a fractal conceptualization that brings
 another dimension of reading to a text but one that might be thought of a discerete dynamical system that what might recur through based on each letterform.
 
+But in order to do this might we employ a graph or order theoretic lattice (e.g. Formal Concept Analysis) and if a graph what would the topology mean when one dot is next to another etc? In FCA what is represented is a whole context by means of a lattice with the contexts all-objects upper bound and all-attributes lower bound. This is quite powerful but as a fractal it would constrain the zoomspace to the natural context . If we employ a lattice we are over-constrained and will not be able to diagrammatically depict a large-enough gamut of iconic constellations. A possible compromise might be that we could employ graph coloring of edges but at current this issue is not clear.
+
 ---
 
 TETRAHEDRONIZE!
