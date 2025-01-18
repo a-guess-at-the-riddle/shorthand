@@ -351,14 +351,14 @@ https://en.wikipedia.org/wiki/Sign_language
 ---
 gesture grounding?
 
-def. "Gestion" (Gesture Motion)
-def. "Gestureform" ("Letterspace")
-def. "Letterform" of a "Letterspace"
-def. "Letterspace trajectory"
+- def. "Gestion" (Gesture Motion)
+- def. "Gestureform" ("Letterspace")
+- def. "Letterform" of a "Letterspace"
+- def. "Letterspace trajectory"
 
-(1) 3D gestural dynamics;
-(2) static 3D gesture forms;
-(3) shadow projections i.e. 2D letterform sets
+1. 3D gestural dynamics;
+2. static 3D gesture forms;
+3. shadow projections i.e. 2D letterform sets
 that correspond to (2);
 
 We can imagine a text-interface in which the mark (cursor) is placed over
