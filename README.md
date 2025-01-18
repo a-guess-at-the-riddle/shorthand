@@ -390,6 +390,12 @@ But in order to do this might we employ a graph or order theoretic lattice (e.g.
 
 So this concept is akin to a rebus where every letterform is itself a mnemonic-assoc icon.
 
+- https://en.wikipedia.org/wiki/Constellation
+- https://en.wikipedia.org/wiki/Rebus
+
+![Arolsen_Klebeband_18_041_3](https://github.com/user-attachments/assets/5b812bbc-7a7b-4468-a117-c45e585bf876)
+
+
 ---
 
 TETRAHEDRONIZE!
