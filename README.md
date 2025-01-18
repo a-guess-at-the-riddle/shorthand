@@ -321,14 +321,23 @@ Yannis Haralambous. _Fonts & Encodings_ (2007)
 <img width="595" alt="Screenshot 2025-01-17 at 9 22 19 AM" src="https://github.com/user-attachments/assets/aa721d2f-48a8-46ee-8ff9-f54222d280c7" />
 
 ---
+###Writing Systems
+- Writing Systems: https://en.wikipedia.org/wiki/Writing_system
+- Florian Coulmas. _The Writing Systems of the World_ (1989, 1991)
+- Peter T. Daniels, ‎William Bright. _The World's Writing Systems_ (1996)
+- Young-Key Kim-Renaud. _The Korean Alphabet: Its History and Structure_ (1997)
 
-Writing Systems: https://en.wikipedia.org/wiki/Writing_system
-Florian Coulmas. _The Writing Systems of the World_ (1989, 1991)
-Peter T. Daniels, ‎William Bright. _The World's Writing Systems_ (1996)
-Young-Key Kim-Renaud. _The Korean Alphabet: Its History and Structure_ (1997)
+---
 
-Hangul/featural (in particular morpho-syllabic blocks): https://en.wikipedia.org/wiki/Hangul
-Hangul consonant and vowel tables: https://en.wikipedia.org/wiki/Hangul_consonant_and_vowel_tables
+###Hangul
+The topic of Hangul's featural script and its syllable-block design is curious
+here because it if we wish to make tetracards (and maybe threecards, etc.)
+then we micht wish wish to embed this as a character on a computer text interface.
+Of course the original design here is to use LaTeX (LuaTeX?) but exploring
+textfiles is a possibility.
+
+- Hangul/featural (in particular morpho-syllabic blocks): https://en.wikipedia.org/wiki/Hangul
+- Hangul consonant and vowel tables: https://en.wikipedia.org/wiki/Hangul_consonant_and_vowel_tables
 
 - _Korean Language Writing Practice Book - Learn to Write Korean Hangul Correctly_ (2020)
 - _Korean Hangul for Beginners_. `https://www.tuttlepublishing.com/korean-hangul-for-beginners`
@@ -338,6 +347,24 @@ Hangul consonant and vowel tables: https://en.wikipedia.org/wiki/Hangul_consonan
 ???
 https://en.wikipedia.org/wiki/Braille
 https://en.wikipedia.org/wiki/Sign_language
+
+---
+gesture grounding?
+
+def. "Gestion" (Gesture Motion)
+def. "Gestureform" ("Letterspace")
+def. "Letterform" of a "Letterspace"
+def. "Letterspace trajectory"
+
+(1) 3D gestural dynamics;
+(2) static 3D gesture forms;
+(3) shadow projections i.e. 2D letterform sets
+that correspond to (2);
+
+We can imagine a text-interface in which the mark (cursor) is placed over
+a point in a text interface. Here the mark should be interpreted as being "over"
+the following character. In this state the user might use something like the arrow keys
+to navigate the perspective relation space (2D letterspace) of that 3D gestureform.
 
 
 ---
