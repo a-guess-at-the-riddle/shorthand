@@ -329,7 +329,7 @@ Yannis Haralambous. _Fonts & Encodings_ (2007)
 
 ---
 
-###Hangul
+### Hangul
 The topic of Hangul's featural script and its syllable-block design is curious
 here because it if we wish to make tetracards (and maybe threecards, etc.)
 then we micht wish wish to embed this as a character on a computer text interface.
@@ -345,8 +345,8 @@ textfiles is a possibility.
 
 
 ???
-https://en.wikipedia.org/wiki/Braille
-https://en.wikipedia.org/wiki/Sign_language
+https://en.wikipedia.org/wiki/Braille (grounding in *touch*!)
+https://en.wikipedia.org/wiki/Sign_language (grounding in *gesture*!)
 
 ---
 gesture grounding?
@@ -366,6 +366,25 @@ a point in a text interface. Here the mark should be interpreted as being "over"
 the following character. In this state the user might use something like the arrow keys
 to navigate the perspective relation space (2D letterspace) of that 3D gestureform.
 
+
+---
+### Representational Strata (4 or 5 tiers)
+1. (Tetra) Video clip & photographic images (not canonical but variant across writers and 'readers') of both the objects and sign-vehicle productions (gestures, phomenic gestures)
+   That is writer-intended (write validation) and reader-interpretation validated
+   mappings of photos to codes. For example photographs of inner-mouth phonetic gesture.
+2. (Hexa) Vectorized cartoon of images of these paradigms.
+3. (Octa) Miniture Logographic (Heiroglyphic-like) representations of both world and gesture, phonemic gesture.
+4. (Icosa) Consonant/Vowel Alphabet
+5. (Dodeca) Featural Alphabet
+---
+
+### Constellations (Rebusform)
+Every gesture & alphabetic script character should mirror the Heiroglyphic iconism.
+In teaching counting and adding in early child mathematics children are often taught
+a standard placement of dots over the letterforms that aid in adding by counting.
+With all elemental letters we might design these dots to cohere with the general constraints such that the letterform encode a diagrammatic cartoon of parts-wholes
+as the image of an archetype. In short this is a fractal conceptualization that brings
+another dimension of reading to a text but one that might be thought of a discerete dynamical system that what might recur through based on each letterform.
 
 ---
 
