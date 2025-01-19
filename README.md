@@ -15,7 +15,7 @@ medium.com draft link: https://medium.com/@a-guess-at-the-riddle/archetypal-taxo
 (need to relarn about XML DTDlang, SVG, learn SMIL, what about space and time here?)
 
 polyhedra, color harmony, music harmony, "WORD" (e.g. phonemes) harmony
-CRYSTAL_**FORM**: {PROPERTIES × OBJECTS = PROCESS}
+CRYSTAL_FORM: {PROPERTIES × OBJECTS = PROCESS}
 
 ## Platonic Harmony
 
@@ -32,7 +32,14 @@ CRYSTAL_**FORM**: {PROPERTIES × OBJECTS = PROCESS}
 |   icosa  |  icosahedron  |  icosahedronal   |  icosahedronize  |
 *----------*---------------*------------------*------------------*
 ```
-_see_ Field, J. V. _Kepler's Geometrical Cosmology_
+_see_:
+- Field, J. V. _Kepler's Geometrical Cosmology_
+- Francis MacDonald Cornford. _Plato's Cosmology_ (1997)
+- Plato. _Timaeus_
+- Daud Sutton. _Platonic & Archimedean Solids_ (Wooden Books)
+- Anthony Pugh. _Polyhedra A Visual Approach_ (2023)
+- Peter R. Cromwell. _Polyhedra_ (1997)
+
 
 ---
 
@@ -310,6 +317,7 @@ A Phenomenological "Erlangen Program"? (symmetry: invariance & change)
 
 
 Yannis Haralambous. _Fonts & Encodings_ (2007)
+Ken Lunde. _CJKV Information Processing: Chinese, Japanese, Korean, and Vietnamese Computing_ 2nd Edition
 
 ![250w](https://github.com/user-attachments/assets/e799da90-81b4-4cc0-baa8-eeae399d416f)
 ![250w-2](https://github.com/user-attachments/assets/9f8b4370-b955-420c-9c67-fd973d689a7c)
@@ -321,7 +329,7 @@ Yannis Haralambous. _Fonts & Encodings_ (2007)
 <img width="595" alt="Screenshot 2025-01-17 at 9 22 19 AM" src="https://github.com/user-attachments/assets/aa721d2f-48a8-46ee-8ff9-f54222d280c7" />
 
 ---
-###Writing Systems
+### Writing Systems
 - Writing Systems: https://en.wikipedia.org/wiki/Writing_system
 - Florian Coulmas. _The Writing Systems of the World_ (1989, 1991)
 - Peter T. Daniels, ‎William Bright. _The World's Writing Systems_ (1996)
