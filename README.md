@@ -406,10 +406,6 @@ So this concept is akin to a rebus where every letterform is itself a mnemonic-a
 
 ---
 
-TETRAHEDRONIZE!
-
-![tetrahedronize](https://github.com/user-attachments/assets/f92bac1c-4496-4ae2-9d11-a6c1d4fedf4b)
-
 
 ---
 
