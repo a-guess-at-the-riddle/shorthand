@@ -324,10 +324,9 @@ Ken Lunde. _CJKV Information Processing: Chinese, Japanese, Korean, and Vietname
 
 ### Emacs Extension for UI
 
-<img width="422" alt="emacsintrobook" src="https://github.com/user-attachments/assets/fafa9f3d-b4a5-47c8-a380-add549a994a3" />
-<img width="497" alt="Untitled" src="https://github.com/user-attachments/assets/57f25113-6632-4c7d-8854-299f3aba0a53" />
-![81z9s-mxa3L _SL1500_](https://github.com/user-attachments/assets/b24f7151-c747-4ba2-af02-1e0b6e087d59)
+Emacs Texts
 
+<img width="870" alt="emacsbooks" src="https://github.com/user-attachments/assets/491e5179-f31f-4e5a-885a-59eb967068c3" />
 
 
 ---
