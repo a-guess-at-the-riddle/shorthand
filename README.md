@@ -415,6 +415,7 @@ So this concept is akin to a rebus where every letterform is itself a mnemonic-a
 
 ---
 
+<img width="507" alt="Untitled" src="https://github.com/user-attachments/assets/10ccb1f0-0c57-466b-b7e1-db02f29e45a1" />
 
 ---
 
@@ -422,4 +423,4 @@ So this concept is akin to a rebus where every letterform is itself a mnemonic-a
 
 > _open anahata!_
 
-![stardust-breaker](https://github.com/user-attachments/assets/236b7820-9887-45a3-b8b4-ff5919ddfeac)
+
