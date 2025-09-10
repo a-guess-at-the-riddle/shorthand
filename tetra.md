@@ -1770,6 +1770,9 @@ Eric McLuhan. _The Sensus Communis_, _Synesthesia, and the Soul: An Odyssey_
 
 Eric McLuhan. “Catholicism and Communication: The Sensus Communis, Synesthesia, and the Soul.” —  29th Michael Keenan Memorial Lecture at St. Thomas More College, University of Saskatchewan. November 2, 2017. (1hr 32min) `[https://www.youtube.com/watch?v=QzXIdfPmSNI](https://www.youtube.com/watch?v=QzXIdfPmSNI)`
 
+![71oEdP4tUgL _SL1500_](https://github.com/user-attachments/assets/f2387c48-72b9-473b-9cbf-2c86c6dad065)
+
+
 - - -
 
   
