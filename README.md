@@ -378,6 +378,8 @@ gesture grounding?
 3. shadow projections i.e. 2D letterform sets
 that correspond to (2);
 
+- semantic zoom Github curation (@prathyvsh): https://github.com/prathyvsh/semantic-zoom
+
 We can imagine a text-interface in which the mark (cursor) is placed over
 a point in a text interface. Here the mark should be interpreted as being "over"
 the following character. In this state the user might use something like the arrow keys
