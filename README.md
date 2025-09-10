@@ -8,7 +8,7 @@
 A shorthand markup language and UI API for rendering into various mediums.
 
 
-medium.com draft link: https://medium.com/@a-guess-at-the-riddle/archetypal-taxonomy-opponent-processing-1af6bd0fbf0f
+wider (defunct) draft: https://htmlpreview.github.io/?https://github.com/a-guess-at-the-riddle/medium-archive/blob/main/draft_Tetra-1af6bd0fbf0f.html
 
 *****
 
