@@ -378,8 +378,6 @@ gesture grounding?
 3. shadow projections i.e. 2D letterform sets
 that correspond to (2);
 
-- semantic zoom Github curation (@prathyvsh): https://github.com/prathyvsh/semantic-zoom
-
 We can imagine a text-interface in which the mark (cursor) is placed over
 a point in a text interface. Here the mark should be interpreted as being "over"
 the following character. In this state the user might use something like the arrow keys
@@ -395,6 +393,8 @@ to navigate the perspective relation space (2D letterspace) of that 3D gesturefo
 3. (Octa) Miniture Logographic (Heiroglyphic-like) representations of both world and gesture, phonemic gesture.
 4. (Icosa) Consonant/Vowel Alphabet
 5. (Dodeca) Featural Alphabet
+
+- semantic zoom Github curation (@prathyvsh): https://github.com/prathyvsh/semantic-zoom
 ---
 
 ### Constellations (Rebusform)
