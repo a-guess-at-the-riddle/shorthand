@@ -178,6 +178,7 @@ _SMIL 3.0: Flexible Multimedia for Web, Mobile Devices and Daisy Talking Books (
 
 Wikimedia. SMIL example `[https://upload.wikimedia.org/wikipedia/commons/b/ba/Toy_train_SMIL.svg](https://upload.wikimedia.org/wikipedia/commons/b/ba/Toy_train_SMIL.svg)`
 
+```
 <?xml version="1.0" encoding="utf-8"?>  
 <svg version\="1.1" xmlns\="http://www.w3.org/2000/svg" xmlns:xlink\="http://www.w3.org/1999/xlink" width\="100%" height\="100%" viewBox\="-512 -272 1024 512"\>  
  <title\>Toy train SMIL</title\>  
@@ -323,6 +324,7 @@ Wikimedia. SMIL example `[https://upload.wikimedia.org/wikipedia/commons/b/ba/To
   <animateTransform   attributeType\="XML" attributeName\="transform" type\="translate" begin\="0s" dur\="31s" values\="380,0;160,0;380,0" keyTimes\="0;0.5;1" repeatCount\="indefinite"/>  
  </g\>  
 </svg\>
+```
 
 _The Haskell School of Music From Signals to Symphonies_ (2018) \[[_link_](https://www.euterpea.com/haskell-school-of-music/)\]  
 _The Haskell School of Expression: Learning Functional Programming through Multimedia_ (2000) \[[link](https://www.cs.yale.edu/homes/hudak/SOE/)\]
@@ -331,14 +333,14 @@ _The Haskell School of Expression: Learning Functional Programming through Multi
 
 tetra: polyhedra, color harmony, music harmony, phonetic harmony
 
-_platonic solids._  
+_platonic solids_.  
 Tetrahedron  
 Cube  
 Octahedron  
 Dodecahedron  
 Icosahedron
 
-_color_**.  
+_color_.  
 **Black  
 White  
 Gray  
@@ -392,7 +394,7 @@ vowels: (front, central back) × (close close-mid, open-mid, open)
 
 ### Platonic Solids and Polyhedra
 
-_Platonic Solids: —_ Tetrahedron (𝕥), Cube (𝕔), Octahedron (𝕠), Dodecahedron (𝕕), Icosahedron (𝕚)
+_Platonic Solids:_ — Tetrahedron (𝕥), Cube (𝕔), Octahedron (𝕠), Dodecahedron (𝕕), Icosahedron (𝕚)
 
 _Archimedean solids_ (semiregular or uniform) — truncated tetrahedron, cuboctahedron, truncated cube, truncated octahedron, rhombicuboctahedron, truncated cuboctahedron, snub cube, icosidodecahedron, truncated dodecahedron, truncated icosahedron, rhombicosidodecahedron, truncated icosidodecahedron, snub dodecahedron
 
