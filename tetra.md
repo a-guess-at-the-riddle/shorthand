@@ -28,7 +28,7 @@ _Modern/Scientific_: Elements, Crystallography, Mineralogy, Matter, Petrology, O
 
 > “What the world was to Adam on the day he opened his eyes to it, before he had drawn any distinctions, or had become conscious of his own existence — that is first, present, immediate, fresh, new, initiative, original, spontaneous, free, vivid, conscious, and evanescent. Only, remember that every description of it must be false to it.” — _Charles Sanders Peirce \[_[ref](http://www.commens.org/dictionary/entry/quote-guess-riddle-1)_\]_
 
-How does one re appropriate the degree of ownership over a medium? How does one dissolve the habits in the shadow of the economies of scale that come with standardization acceleration…sovereignty?
+How does one reappropriate the degree of ownership over a medium? How does one dissolve the habits in the shadow of the economies of scale that come with standardization acceleration…sovereignty? Just remember that to reorient oneself too much macro-orientation can lead to disorientation (dissolved into the while light), so remember to micro-orient.
 
 ### Synesthesia-ML & ICON FONT
 
