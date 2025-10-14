@@ -14,7 +14,7 @@ Archetypal Phenomenology, Archetypal Taxonomy & Opponent Processing
 
 “**Love is the one thing we’re capable of perceiving that transcends dimensions of time and space.”**
 
-**Pt I** Taxonomies **—** _Archeyptal_: Shape, Color, Music, Phonemes, Senses, Media, Evolutionary (Comparative) Anatomy & Physiology, Feeling, Movement, Gesture, Astrology, Alchemy, Astrology & Calendar System Symbolism, Chakra, I Ching, Tarot, Kabbalah, Action (ethics), Numerology, Seven Liberal Arts, Philosophical Categories, Circuit Analogies, Personality
+**Pt I** Taxonomies **—** _Archeyptal_: Shape, Color, Music, Phonemes, Projective Geometry, Senses, Media, Evolutionary (Comparative) Anatomy & Physiology, Feeling, Movement, Gesture, Astrology, Alchemy, Astrology & Calendar System Symbolism, Chakra, I Ching, Tarot, Kabbalah, Action (ethics), Numerology, Seven Liberal Arts, Philosophical Categories, Circuit Analogies, Personality
 
 _Modern/Scientific_: Elements, Crystallography, Mineralogy, Matter, Petrology, Organisms, Biomes, Particle Physics, …
 
@@ -703,6 +703,25 @@ Wikipedia. “[Phonetic transcription](https://en.wikipedia.org/wiki/Phonetic_tr
 - - -
 
 ![](https://cdn-images-1.medium.com/max/800/0*5pAV-lRrraIlwilc.jpeg)
+
+- - -
+
+##  Projective Geometry, Finite Projective Planes & Incidence Relations
+3-space
+real projective plane 
+point-at-infinity
+line-at-infinty
+plane-at-infinty
+principle of duality
+incidence relation
+closure
+homogeneous coordinates https://en.wikipedia.org/wiki/Homogeneous_coordinates
+projective completion
+cross ratio
+harmonic conjugate
+Desargues' Theorem
+
+Daniel Hafner. Projective Morphology ![](https://youtube.com/playlist?list=PLFp3HmTzI8EKGsUVSBgRm3nd0qhSgfHLa&si=bTbTLdH-dcjhfcIW)
 
 - - -
 
