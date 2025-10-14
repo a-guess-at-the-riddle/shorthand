@@ -656,7 +656,6 @@ tʃ cheese, lunch
 11.  [Feature](https://en.wikipedia.org/wiki/Distinctive_feature "Distinctive feature")
 
 #### nonlinear phonology  
-  
 
 prosodic tier _vs_ segmental tier  
 **_tiers_**Word tier (WORD: “birthday”);  
@@ -721,7 +720,7 @@ cross ratio
 harmonic conjugate
 Desargues' Theorem
 
-Daniel Hafner. Projective Morphology ![](https://youtube.com/playlist?list=PLFp3HmTzI8EKGsUVSBgRm3nd0qhSgfHLa&si=bTbTLdH-dcjhfcIW)
+Daniel Hafner. Projective Morphology `https://youtube.com/playlist?list=PLFp3HmTzI8EKGsUVSBgRm3nd0qhSgfHLa&si=bTbTLdH-dcjhfcIW`
 
 - - -
 
@@ -974,7 +973,61 @@ Wikipedia. “I Ching” `[https://en.wikipedia.org/wiki/I_Ching](https://en.wik
 7 [師 (shī)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_7 "List of hexagrams of the I Ching")  
 8 [比 (bǐ)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_8 "List of hexagrams of the I Ching")  
 9 [小畜 (xiǎo xù)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_9 "List of hexagrams of the I Ching")  
-10 [履 (lǚ)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_10 "List of hexagrams of the I Ching") 11 [泰 (tài)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_11 "List of hexagrams of the I Ching") 12 [否 (pǐ)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_12 "List of hexagrams of the I Ching") 13 [同人 (tóng rén)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_13 "List of hexagrams of the I Ching") 14 [大有 (dà yǒu)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_14 "List of hexagrams of the I Ching") 15 [謙 (qiān)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_15 "List of hexagrams of the I Ching") 16 [豫 (yù)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_16 "List of hexagrams of the I Ching") 17 [隨 (suí)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_17 "List of hexagrams of the I Ching") 18 [蠱 (gŭ)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_18 "List of hexagrams of the I Ching") 19 [臨 (lín)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_19 "List of hexagrams of the I Ching") 20 [觀 (guān)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_20 "List of hexagrams of the I Ching") 21 [噬嗑 (shì kè)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_21 "List of hexagrams of the I Ching") 22 [賁 (bì)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_22 "List of hexagrams of the I Ching") 23 [剝 (bō)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_23 "List of hexagrams of the I Ching") 24 [復 (fù)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_24 "List of hexagrams of the I Ching") 25 [無妄 (wú wàng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_25 "List of hexagrams of the I Ching") 26 [大畜 (dà xù)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_26 "List of hexagrams of the I Ching") 27 [頤 (yí)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_27 "List of hexagrams of the I Ching") 28 [大過 (dà guò)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_28 "List of hexagrams of the I Ching") 29 [坎 (kǎn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_29 "List of hexagrams of the I Ching") 30 [離 (lí)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_30 "List of hexagrams of the I Ching") 31 [咸 (xián)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_31 "List of hexagrams of the I Ching") 32 [恆 (héng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_32 "List of hexagrams of the I Ching") 33 [遯 (dùn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_33 "List of hexagrams of the I Ching") 34 [大壯 (dà zhuàng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_34 "List of hexagrams of the I Ching") 35 [晉 (jìn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_35 "List of hexagrams of the I Ching") 36 [明夷 (míng yí)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_36 "List of hexagrams of the I Ching") 37 [家人 (jiā rén)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_37 "List of hexagrams of the I Ching") 38 [睽 (kuí)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_38 "List of hexagrams of the I Ching") 39 [蹇 (jiǎn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_39 "List of hexagrams of the I Ching") 40 [解 (xiè)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_40 "List of hexagrams of the I Ching") 41 [損 (sǔn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_41 "List of hexagrams of the I Ching") 42 [益 (yì)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_42 "List of hexagrams of the I Ching") 43 [夬 (guài)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_43 "List of hexagrams of the I Ching") 44 [姤 (gòu)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_44 "List of hexagrams of the I Ching") 45 [萃 (cuì)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_45 "List of hexagrams of the I Ching") 46 [升 (shēng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_46 "List of hexagrams of the I Ching") 47 [困 (kùn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_47 "List of hexagrams of the I Ching") 48 [井 (jǐng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_48 "List of hexagrams of the I Ching") 49 [革 (gé)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_49 "List of hexagrams of the I Ching") 50 [鼎 (dǐng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_50 "List of hexagrams of the I Ching") 51 [震 (zhèn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_51 "List of hexagrams of the I Ching") 52 [艮 (gèn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_52 "List of hexagrams of the I Ching") 53 [漸 (jiàn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_53 "List of hexagrams of the I Ching") 54 [歸妹 (guī mèi)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_54 "List of hexagrams of the I Ching") 55 [豐 (fēng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_55 "List of hexagrams of the I Ching") 56 [旅 (lǚ)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_56 "List of hexagrams of the I Ching") 57 [巽 (xùn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_57 "List of hexagrams of the I Ching") 58 [兌 (duì)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_58 "List of hexagrams of the I Ching") 59 [渙 (huàn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_59 "List of hexagrams of the I Ching") 60 [節 (jié)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_60 "List of hexagrams of the I Ching") 61 [中孚 (zhōng fú)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_61 "List of hexagrams of the I Ching") 62 [小過 (xiǎo guò)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_62 "List of hexagrams of the I Ching") 63 [既濟 (jì jì)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_63 "List of hexagrams of the I Ching") 64 [未濟 (wèi jì)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_64 "List of hexagrams of the I Ching")
+10 [履 (lǚ)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_10 "List of hexagrams of the I Ching")
+11 [泰 (tài)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_11 "List of hexagrams of the I Ching")
+12 [否 (pǐ)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_12 "List of hexagrams of the I Ching")
+13 [同人 (tóng rén)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_13 "List of hexagrams of the I Ching")
+14 [大有 (dà yǒu)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_14 "List of hexagrams of the I Ching")
+15 [謙 (qiān)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_15 "List of hexagrams of the I Ching")
+16 [豫 (yù)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_16 "List of hexagrams of the I Ching")
+17 [隨 (suí)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_17 "List of hexagrams of the I Ching")
+18 [蠱 (gŭ)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_18 "List of hexagrams of the I Ching")
+19 [臨 (lín)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_19 "List of hexagrams of the I Ching")
+20 [觀 (guān)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_20 "List of hexagrams of the I Ching")
+21 [噬嗑 (shì kè)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_21 "List of hexagrams of the I Ching")
+22 [賁 (bì)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_22 "List of hexagrams of the I Ching")
+23 [剝 (bō)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_23 "List of hexagrams of the I Ching")
+24 [復 (fù)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_24 "List of hexagrams of the I Ching")
+25 [無妄 (wú wàng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_25 "List of hexagrams of the I Ching")
+26 [大畜 (dà xù)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_26 "List of hexagrams of the I Ching")
+27 [頤 (yí)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_27 "List of hexagrams of the I Ching")
+28 [大過 (dà guò)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_28 "List of hexagrams of the I Ching")
+29 [坎 (kǎn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_29 "List of hexagrams of the I Ching")
+30 [離 (lí)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_30 "List of hexagrams of the I Ching")
+31 [咸 (xián)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_31 "List of hexagrams of the I Ching")
+32 [恆 (héng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_32 "List of hexagrams of the I Ching")
+33 [遯 (dùn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_33 "List of hexagrams of the I Ching")
+34 [大壯 (dà zhuàng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_34 "List of hexagrams of the I Ching")
+35 [晉 (jìn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_35 "List of hexagrams of the I Ching")
+36 [明夷 (míng yí)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_36 "List of hexagrams of the I Ching")
+37 [家人 (jiā rén)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_37 "List of hexagrams of the I Ching")
+38 [睽 (kuí)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_38 "List of hexagrams of the I Ching")
+39 [蹇 (jiǎn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_39 "List of hexagrams of the I Ching")
+40 [解 (xiè)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_40 "List of hexagrams of the I Ching")
+41 [損 (sǔn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_41 "List of hexagrams of the I Ching")
+42 [益 (yì)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_42 "List of hexagrams of the I Ching")
+43 [夬 (guài)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_43 "List of hexagrams of the I Ching")
+44 [姤 (gòu)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_44 "List of hexagrams of the I Ching")
+45 [萃 (cuì)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_45 "List of hexagrams of the I Ching")
+46 [升 (shēng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_46 "List of hexagrams of the I Ching")
+47 [困 (kùn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_47 "List of hexagrams of the I Ching")
+48 [井 (jǐng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_48 "List of hexagrams of the I Ching")
+49 [革 (gé)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_49 "List of hexagrams of the I Ching")
+50 [鼎 (dǐng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_50 "List of hexagrams of the I Ching")
+51 [震 (zhèn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_51 "List of hexagrams of the I Ching")
+52 [艮 (gèn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_52 "List of hexagrams of the I Ching")
+53 [漸 (jiàn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_53 "List of hexagrams of the I Ching")
+54 [歸妹 (guī mèi)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_54 "List of hexagrams of the I Ching")
+55 [豐 (fēng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_55 "List of hexagrams of the I Ching")
+56 [旅 (lǚ)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_56 "List of hexagrams of the I Ching")
+57 [巽 (xùn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_57 "List of hexagrams of the I Ching")
+58 [兌 (duì)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_58 "List of hexagrams of the I Ching")
+59 [渙 (huàn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_59 "List of hexagrams of the I Ching")
+60 [節 (jié)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_60 "List of hexagrams of the I Ching")
+61 [中孚 (zhōng fú)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_61 "List of hexagrams of the I Ching")
+62 [小過 (xiǎo guò)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_62 "List of hexagrams of the I Ching")
+63 [既濟 (jì jì)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_63 "List of hexagrams of the I Ching")
+64 [未濟 (wèi jì)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_64 "List of hexagrams of the I Ching")
 
 Bent Nielsen. _A Companion to Yi Jing Numerology and Cosmology Chinese Studies of Images and Numbers from Han (202 BCE-220 CE) to Song (960–1279 CE)_ (2003)
 
@@ -1116,16 +1169,6 @@ _Seven Deadly Sins —_ Lust, Gluttony, Envy, Greed, Sloth, Pride, Wrath
 
 - - -
 
-### Numerology
-
-…
-
-- - -
-
-![](https://cdn-images-1.medium.com/max/800/0*5pAV-lRrraIlwilc.jpeg)
-
-- - -
-
 ### Seven Liberal Arts
 
 _Trivium —_ Grammar, Logic, Rhetoric  
@@ -1247,6 +1290,42 @@ _C. S. Peirce_ — Firstness, Secondness, Thirdness
 _Pliny Chase Elder —_ 
 
 _Peter Roget —_  1st edition upper TOC of Roget’s Thesaurus
+
+- - -
+
+![](https://cdn-images-1.medium.com/max/800/0*5pAV-lRrraIlwilc.jpeg)
+
+- - -
+
+# More on categories
+
+First.
+Second.
+Third.
+Fourth.
+Fifth.
+Sixth.
+Seventh.
+Eighth.
+Ninth.
+Tenth.
+Eleventh.
+Twelth.
+
+
+- - -
+
+![](https://cdn-images-1.medium.com/max/800/0*5pAV-lRrraIlwilc.jpeg)
+
+- - -
+
+# The Flower of Life
+
+
+![flower-of](https://github.com/user-attachments/assets/20ab3cb4-16df-422d-96b4-3afbe798ce80)
+
+"One of the beautiful arrangements of circles found at the Temple of Osiris at Abydos, Egypt (Rawles 1997). The pattern also appears in Phoenician art from the 9th century BC (Wolfram 2002, pp. 43 and 873). The circles are placed with six-fold symmetry, forming a mesmerizing pattern of circles and lenses." (Weisstein, Eric W. "Flower of Life." From MathWorld--A Wolfram Resource. ``https://mathworld.wolfram.com/FlowerofLife.html``)
+
 
 - - -
 
@@ -1538,11 +1617,15 @@ crystal groups…
 
 mineral types
 
-#### Optical Mineralogy
+#### Optical Mineralogy & Conoscopy
 
 Birefringence & Pleochroism
 
+Michel-Levy Interference Chart
+
 ![](https://cdn-images-1.medium.com/max/1200/1*SnGC_kTD-2kmZgYk0FAc5Q.jpeg)
+
+Optical Mineralogy (YouTube lecture course): `https://www.youtube.com/playlist?list=PLISEtDmihMo1KnTq6TjQrEiwVvAJ_-bvC`
 
 - - -
 
