@@ -744,18 +744,6 @@ Graham K. Taylor, Adrian L. R. Thomas. _Evolutionary Biomechanics Selection, Phy
 
 _Evolutionary biomechanics: selection, phylogeny, and constraint_
 
-**Steven Vogel**
-
-    Life in Moving Fluids: The Physical Biology of Flow. Princeton University Press (1981; 2nd ed. 1996).  
-    Life's Devices: The Physical World of Animals and Plants. Princeton University Press (1988).  
-    Vital Circuits: On Pumps, Pipes, and the Workings of Circulatory Systems. Oxford University Press (1993).  
-    Cats' Paws and Catapults: Mechanical Worlds of Nature and People. W.W. Norton (1998).  
-    Prime Mover: a Natural History of Muscle. W. W. Norton & Co. (2002).  
-    Comparative Biomechanics: Life's Physical World. Princeton University Press (2003).  
-    Glimpses of Creatures in Their Mechanical Worlds. Princeton University Press (2009).  
-    The Life of a Leaf. University of Chicago Press, ISBN 9780226104775 (2012).  
-    Why the Wheel Is Round: Muscles, Technology, and How We Make Things Move. University of Chicago Press, ISBN 9780226381039 (2016).
-
   
 
 Jean-Paul Höppner, OSTEOPAT D.O. MRO. **_Life as a Verb_**
@@ -877,6 +865,60 @@ U+2653 ♓ PISCES ♓︎
 U+26CE ⛎ OPHIUCHUS ⛎︎
 
 Wikipedia. “Zodiac” `[https://en.wikipedia.org/wiki/Zodiac](https://en.wikipedia.org/wiki/Zodiac)`
+
+```
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|*| VIRGO-LIBRA           |*| Aries       | Taurus      | Gemini      | Cancer      | Leo         | Virgo       | Libra       | Scorpio     | Sagittarius | Capricorn   | Aquarius    | Pisces      |
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|*| LIBRA-SCORPIO         |*| Taurus      | Gemini      | Cancer      | Leo         | Virgo       | Libra       | Scorpio     | Sagittarius | Capricorn   | Aquarius    | Pisces      | Aries       |
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|*| SCORPIO-SAGITTARIUS   |*| Gemini      | Cancer      | Leo         | Virgo       | Libra       | Scorpio     | Sagittarius | Capricorn   | Aquarius    | Pisces      | Aries       | Taurus      |
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|*| SAGITTARIUS-CAPRICORN |*| Cancer      | Leo         | Virgo       | Libra       | Scorpio     | Sagittarius | Capricorn   | Aquarius    | Pisces      | Aries       | Taurus      | Gemini      |
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|*| CAPRICORN-AQUARIAS    |*| Leo         | Virgo       | Libra       | Scorpio     | Sagittarius | Capricorn   | Aquarius    | Pisces      | Aries       | Taurus      | Gemini      | Cancer      |
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|*| AQUARIAS-PISCES       |*| Virgo       | Libra       | Scorpio     | Sagittarius | Capricorn   | Aquarius    | Pisces      | Aries       | Taurus      | Gemini      | Cancer      | Leo         |
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|*| PISCES-ARIES          |*| Libra       | Scorpio     | Sagittarius | Capricorn   | Aquarius    | Pisces      | Aries       | Taurus      | Gemini      | Cancer      | Leo         | Virgo       |
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|*| ARIES-TAURUS          |*| Scorpio     | Sagittarius | Capricorn   | Aquarius    | Pisces      | Aries       | Taurus      | Gemini      | Cancer      | Leo         | Virgo       | Libra       |
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|*| TAURUS-GEMINI         |*| Sagittarius | Capricorn   | Aquarius    | Pisces      | Aries       | Taurus      | Gemini      | Cancer      | Leo         | Virgo       | Libra       | Scorpio     |
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|*| GEMINI-CANCER         |*| Capricorn   | Aquarius    | Pisces      | Aries       | Taurus      | Gemini      | Cancer      | Leo         | Virgo       | Libra       | Scorpio     | Sagittarius |
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|*| CANCER-LEO            |*| Aquarius    | Pisces      | Aries       | Taurus      | Gemini      | Cancer      | Leo         | Virgo       | Libra       | Scorpio     | Sagittarius | Capricorn   |
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|*| LEO-VIRGO             |*| Pisces      | Aries       | Taurus      | Gemini      | Cancer      | Leo         | Virgo       | Libra       | Scorpio     | Sagittarius | Capricorn   | Aquarius    |
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+*****************************************************************************************************************************************************************************************************
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|*| LEO-VIRGO             |*| Pisces      | Aries       | Taurus      | Gemini      | Cancer      | Leo         | Virgo       | Libra       | Scorpio     | Sagittarius | Capricorn   | Aquarius    |
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|*| CANCER-LEO            |*| Aquarius    | Pisces      | Aries       | Taurus      | Gemini      | Cancer      | Leo         | Virgo       | Libra       | Scorpio     | Sagittarius | Capricorn   |
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|*| GEMINI-CANCER         |*| Capricorn   | Aquarius    | Pisces      | Aries       | Taurus      | Gemini      | Cancer      | Leo         | Virgo       | Libra       | Scorpio     | Sagittarius |
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|*| TAURUS-GEMINI         |*| Sagittarius | Capricorn   | Aquarius    | Pisces      | Aries       | Taurus      | Gemini      | Cancer      | Leo         | Virgo       | Libra       | Scorpio     |
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|*| ARIES-TAURUS          |*| Scorpio     | Sagittarius | Capricorn   | Aquarius    | Pisces      | Aries       | Taurus      | Gemini      | Cancer      | Leo         | Virgo       | Libra       |
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|*| PISCES-ARIES          |*| Libra       | Scorpio     | Sagittarius | Capricorn   | Aquarius    | Pisces      | Aries       | Taurus      | Gemini      | Cancer      | Leo         | Virgo       |
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|*| AQUARIAS-PISCES       |*| Virgo       | Libra       | Scorpio     | Sagittarius | Capricorn   | Aquarius    | Pisces      | Aries       | Taurus      | Gemini      | Cancer      | Leo         |
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|*| CAPRICORN-AQUARIAS    |*| Leo         | Virgo       | Libra       | Scorpio     | Sagittarius | Capricorn   | Aquarius    | Pisces      | Aries       | Taurus      | Gemini      | Cancer      |
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|*| SAGITTARIUS-CAPRICORN |*| Cancer      | Leo         | Virgo       | Libra       | Scorpio     | Sagittarius | Capricorn   | Aquarius    | Pisces      | Aries       | Taurus      | Gemini      |
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|*| SCORPIO-SAGITTARIUS   |*| Gemini      | Cancer      | Leo         | Virgo       | Libra       | Scorpio     | Sagittarius | Capricorn   | Aquarius    | Pisces      | Aries       | Taurus      |
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|*| LIBRA-SCORPIO         |*| Taurus      | Gemini      | Cancer      | Leo         | Virgo       | Libra       | Scorpio     | Sagittarius | Capricorn   | Aquarius    | Pisces      | Aries       |
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|*| VIRGO-LIBRA           |*| Aries       | Taurus      | Gemini      | Cancer      | Leo         | Virgo       | Libra       | Scorpio     | Sagittarius | Capricorn   | Aquarius    | Pisces      |
++*+-----------------------+*+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+```
 
 - - -
 
