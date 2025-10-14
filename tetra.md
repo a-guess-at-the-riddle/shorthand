@@ -2019,4 +2019,6 @@ Eric McLuhan. “Catholicism and Communication: The Sensus Communis, Synesthesia
 
 - - -
 
-Exported from [Medium](https://medium.com) on April 4, 2025.
+𝑎𝑟𝑒 𝑦𝑜𝑢 𝑟𝑒𝑎𝑑𝑦 𝑡𝑜 𝑟𝑒𝑚𝑒𝑚𝑏𝑒𝑟?
+![ruby](https://github.com/user-attachments/assets/13de8623-17ef-4941-8a41-02990af44bd1)
+
