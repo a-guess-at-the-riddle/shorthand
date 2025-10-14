@@ -28,7 +28,13 @@ _Modern/Scientific_: Elements, Crystallography, Mineralogy, Matter, Petrology, O
 
 > “What the world was to Adam on the day he opened his eyes to it, before he had drawn any distinctions, or had become conscious of his own existence — that is first, present, immediate, fresh, new, initiative, original, spontaneous, free, vivid, conscious, and evanescent. Only, remember that every description of it must be false to it.” — _Charles Sanders Peirce \[_[ref](http://www.commens.org/dictionary/entry/quote-guess-riddle-1)_\]_
 
-How does one reappropriate the degree of ownership over a medium? How does one dissolve the habits in the shadow of the economies of scale that come with standardization acceleration? This article contains far more macro-orienting schemata than micro. But micro is what is needed (your own personal phenomenological quest). Be forewarned regarding grand reorientation, too much macro-orientation can lead to disorientation (dissolved into the polychromatic white light), so remember to micro-orient (perhaps far more).
+How does one reappropriate the degree of ownership over a medium? How does one dissolve the habits in the shadow of the economies of scale that come with standardization acceleration? This article contains far more macro-orienting schemata than micro. But micro is what is needed (your own personal phenomenological-participatory quest). Be forewarned regarding grand reorientation, too much macro-orientation can lead to disorientation (dissolved into the polychromatic white light), so remember to micro-orient (perhaps far far more to compensate for what follows--harmony pilled).
+
+And remember only the soul can know, not the mind. The bodymind has to learn to read the signs, the clues the soul leaves for us.
+
+"Our steps must be guided by a clue, and see what way from the first perception of the sense must be laid out upon a sure plan."
+
+https://youtu.be/Drd5SoEqXy8?si=oaNMXork8Hq_QwEi
 
 ### Synesthesia-ML & ICON FONT
 
@@ -706,21 +712,35 @@ Wikipedia. “[Phonetic transcription](https://en.wikipedia.org/wiki/Phonetic_tr
 - - -
 
 ##  Projective Geometry, Finite Projective Planes & Incidence Relations
-3-space
-real projective plane 
-point-at-infinity
-line-at-infinty
-plane-at-infinty
-principle of duality
-incidence relation
-closure
-homogeneous coordinates https://en.wikipedia.org/wiki/Homogeneous_coordinates
-projective completion
-cross ratio
-harmonic conjugate
-Desargues' Theorem
+
+3-space.
+
+point-at-infinity.
+
+line-at-infinty.
+
+plane-at-infinty.
+
+principle of duality.
+
+real projective plane.
+
+incidence relation.
+closure.
+
+homogeneous coordinates. https://en.wikipedia.org/wiki/Homogeneous_coordinates
+
+projective completion.
+
+cross ratio.
+
+harmonic conjugate.
+
+Desargues' Theorem.
 
 Daniel Hafner. Projective Morphology `https://youtube.com/playlist?list=PLFp3HmTzI8EKGsUVSBgRm3nd0qhSgfHLa&si=bTbTLdH-dcjhfcIW`
+Vijay Ravikumar (NPTEL-NOC IITM). The Geometry of Vision `https://this-vijay.github.io/vision-math/`
+Projective Geometry Lecture Course. `https://youtube.com/playlist?list=PLTbNOsqwf3svLp0bC_AWQeq9VRLa_cJqk&si=LLkPj5kTCJn4VJyj`
 
 - - -
 
@@ -871,7 +891,7 @@ The zodiac:
 U+2648 ♈ ARIES ♈︎  
 U+2649 ♉ TAURUS ♉︎  
 U+264A ♊ GEMINI ♊︎  
-️ U+264B ♋ CANCER ♋︎  
+️U+264B ♋ CANCER ♋︎  
 U+264C ♌ LEO ♌︎  
 U+264D ♍ VIRGO ♍︎  
 U+264E ♎ LIBRA ♎︎  
@@ -964,7 +984,7 @@ Wikipedia. “I Ching” `[https://en.wikipedia.org/wiki/I_Ching](https://en.wik
 
 ![](https://cdn-images-1.medium.com/max/800/1*rcjAs2vm3dK-gg3Z9J1Apw.png)
 
-1 乾 (qián)  
+1 [乾 (qián)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_1 "List of hexagrams of the I Ching")  
 2 [坤 (kūn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_2 "List of hexagrams of the I Ching")  
 3 [屯 (zhūn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_3 "List of hexagrams of the I Ching")  
 4 [蒙 (méng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_4 "List of hexagrams of the I Ching")  
@@ -973,61 +993,61 @@ Wikipedia. “I Ching” `[https://en.wikipedia.org/wiki/I_Ching](https://en.wik
 7 [師 (shī)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_7 "List of hexagrams of the I Ching")  
 8 [比 (bǐ)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_8 "List of hexagrams of the I Ching")  
 9 [小畜 (xiǎo xù)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_9 "List of hexagrams of the I Ching")  
-10 [履 (lǚ)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_10 "List of hexagrams of the I Ching")
-11 [泰 (tài)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_11 "List of hexagrams of the I Ching")
-12 [否 (pǐ)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_12 "List of hexagrams of the I Ching")
-13 [同人 (tóng rén)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_13 "List of hexagrams of the I Ching")
-14 [大有 (dà yǒu)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_14 "List of hexagrams of the I Ching")
-15 [謙 (qiān)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_15 "List of hexagrams of the I Ching")
-16 [豫 (yù)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_16 "List of hexagrams of the I Ching")
-17 [隨 (suí)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_17 "List of hexagrams of the I Ching")
-18 [蠱 (gŭ)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_18 "List of hexagrams of the I Ching")
-19 [臨 (lín)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_19 "List of hexagrams of the I Ching")
-20 [觀 (guān)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_20 "List of hexagrams of the I Ching")
-21 [噬嗑 (shì kè)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_21 "List of hexagrams of the I Ching")
-22 [賁 (bì)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_22 "List of hexagrams of the I Ching")
-23 [剝 (bō)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_23 "List of hexagrams of the I Ching")
-24 [復 (fù)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_24 "List of hexagrams of the I Ching")
-25 [無妄 (wú wàng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_25 "List of hexagrams of the I Ching")
-26 [大畜 (dà xù)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_26 "List of hexagrams of the I Ching")
-27 [頤 (yí)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_27 "List of hexagrams of the I Ching")
-28 [大過 (dà guò)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_28 "List of hexagrams of the I Ching")
-29 [坎 (kǎn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_29 "List of hexagrams of the I Ching")
-30 [離 (lí)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_30 "List of hexagrams of the I Ching")
-31 [咸 (xián)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_31 "List of hexagrams of the I Ching")
-32 [恆 (héng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_32 "List of hexagrams of the I Ching")
-33 [遯 (dùn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_33 "List of hexagrams of the I Ching")
-34 [大壯 (dà zhuàng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_34 "List of hexagrams of the I Ching")
-35 [晉 (jìn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_35 "List of hexagrams of the I Ching")
-36 [明夷 (míng yí)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_36 "List of hexagrams of the I Ching")
-37 [家人 (jiā rén)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_37 "List of hexagrams of the I Ching")
-38 [睽 (kuí)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_38 "List of hexagrams of the I Ching")
-39 [蹇 (jiǎn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_39 "List of hexagrams of the I Ching")
-40 [解 (xiè)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_40 "List of hexagrams of the I Ching")
-41 [損 (sǔn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_41 "List of hexagrams of the I Ching")
-42 [益 (yì)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_42 "List of hexagrams of the I Ching")
-43 [夬 (guài)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_43 "List of hexagrams of the I Ching")
-44 [姤 (gòu)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_44 "List of hexagrams of the I Ching")
-45 [萃 (cuì)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_45 "List of hexagrams of the I Ching")
-46 [升 (shēng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_46 "List of hexagrams of the I Ching")
-47 [困 (kùn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_47 "List of hexagrams of the I Ching")
-48 [井 (jǐng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_48 "List of hexagrams of the I Ching")
-49 [革 (gé)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_49 "List of hexagrams of the I Ching")
-50 [鼎 (dǐng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_50 "List of hexagrams of the I Ching")
-51 [震 (zhèn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_51 "List of hexagrams of the I Ching")
-52 [艮 (gèn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_52 "List of hexagrams of the I Ching")
-53 [漸 (jiàn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_53 "List of hexagrams of the I Ching")
-54 [歸妹 (guī mèi)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_54 "List of hexagrams of the I Ching")
-55 [豐 (fēng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_55 "List of hexagrams of the I Ching")
-56 [旅 (lǚ)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_56 "List of hexagrams of the I Ching")
-57 [巽 (xùn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_57 "List of hexagrams of the I Ching")
-58 [兌 (duì)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_58 "List of hexagrams of the I Ching")
-59 [渙 (huàn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_59 "List of hexagrams of the I Ching")
-60 [節 (jié)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_60 "List of hexagrams of the I Ching")
-61 [中孚 (zhōng fú)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_61 "List of hexagrams of the I Ching")
-62 [小過 (xiǎo guò)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_62 "List of hexagrams of the I Ching")
-63 [既濟 (jì jì)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_63 "List of hexagrams of the I Ching")
-64 [未濟 (wèi jì)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_64 "List of hexagrams of the I Ching")
+10 [履 (lǚ)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_10 "List of hexagrams of the I Ching")  
+11 [泰 (tài)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_11 "List of hexagrams of the I Ching")  
+12 [否 (pǐ)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_12 "List of hexagrams of the I Ching")  
+13 [同人 (tóng rén)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_13 "List of hexagrams of the I Ching")  
+14 [大有 (dà yǒu)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_14 "List of hexagrams of the I Ching")  
+15 [謙 (qiān)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_15 "List of hexagrams of the I Ching")  
+16 [豫 (yù)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_16 "List of hexagrams of the I Ching")  
+17 [隨 (suí)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_17 "List of hexagrams of the I Ching")  
+18 [蠱 (gŭ)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_18 "List of hexagrams of the I Ching")  
+19 [臨 (lín)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_19 "List of hexagrams of the I Ching")  
+20 [觀 (guān)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_20 "List of hexagrams of the I Ching")  
+21 [噬嗑 (shì kè)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_21 "List of hexagrams of the I Ching")  
+22 [賁 (bì)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_22 "List of hexagrams of the I Ching")  
+23 [剝 (bō)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_23 "List of hexagrams of the I Ching")  
+24 [復 (fù)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_24 "List of hexagrams of the I Ching")  
+25 [無妄 (wú wàng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_25 "List of hexagrams of the I Ching")  
+26 [大畜 (dà xù)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_26 "List of hexagrams of the I Ching")  
+27 [頤 (yí)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_27 "List of hexagrams of the I Ching")  
+28 [大過 (dà guò)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_28 "List of hexagrams of the I Ching")  
+29 [坎 (kǎn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_29 "List of hexagrams of the I Ching")  
+30 [離 (lí)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_30 "List of hexagrams of the I Ching")  
+31 [咸 (xián)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_31 "List of hexagrams of the I Ching")  
+32 [恆 (héng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_32 "List of hexagrams of the I Ching")  
+33 [遯 (dùn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_33 "List of hexagrams of the I Ching")  
+34 [大壯 (dà zhuàng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_34 "List of hexagrams of the I Ching")  
+35 [晉 (jìn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_35 "List of hexagrams of the I Ching")  
+36 [明夷 (míng yí)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_36 "List of hexagrams of the I Ching")  
+37 [家人 (jiā rén)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_37 "List of hexagrams of the I Ching")  
+38 [睽 (kuí)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_38 "List of hexagrams of the I Ching")  
+39 [蹇 (jiǎn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_39 "List of hexagrams of the I Ching")  
+40 [解 (xiè)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_40 "List of hexagrams of the I Ching")  
+41 [損 (sǔn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_41 "List of hexagrams of the I Ching")  
+42 [益 (yì)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_42 "List of hexagrams of the I Ching")  
+43 [夬 (guài)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_43 "List of hexagrams of the I Ching")  
+44 [姤 (gòu)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_44 "List of hexagrams of the I Ching")  
+45 [萃 (cuì)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_45 "List of hexagrams of the I Ching")  
+46 [升 (shēng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_46 "List of hexagrams of the I Ching")  
+47 [困 (kùn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_47 "List of hexagrams of the I Ching")  
+48 [井 (jǐng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_48 "List of hexagrams of the I Ching")  
+49 [革 (gé)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_49 "List of hexagrams of the I Ching")  
+50 [鼎 (dǐng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_50 "List of hexagrams of the I Ching")  
+51 [震 (zhèn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_51 "List of hexagrams of the I Ching")  
+52 [艮 (gèn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_52 "List of hexagrams of the I Ching")  
+53 [漸 (jiàn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_53 "List of hexagrams of the I Ching")  
+54 [歸妹 (guī mèi)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_54 "List of hexagrams of the I Ching")  
+55 [豐 (fēng)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_55 "List of hexagrams of the I Ching")  
+56 [旅 (lǚ)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_56 "List of hexagrams of the I Ching")  
+57 [巽 (xùn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_57 "List of hexagrams of the I Ching")  
+58 [兌 (duì)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_58 "List of hexagrams of the I Ching")  
+59 [渙 (huàn)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_59 "List of hexagrams of the I Ching")  
+60 [節 (jié)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_60 "List of hexagrams of the I Ching")  
+61 [中孚 (zhōng fú)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_61 "List of hexagrams of the I Ching")  
+62 [小過 (xiǎo guò)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_62 "List of hexagrams of the I Ching")  
+63 [既濟 (jì jì)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_63 "List of hexagrams of the I Ching")  
+64 [未濟 (wèi jì)](https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching#Hexagram_64 "List of hexagrams of the I Ching")  
 
 Bent Nielsen. _A Companion to Yi Jing Numerology and Cosmology Chinese Studies of Images and Numbers from Han (202 BCE-220 CE) to Song (960–1279 CE)_ (2003)
 
@@ -1038,7 +1058,7 @@ Richard S. Cook. _Classical Chinese Combinatorics: Derivation of the Book of Cha
 
   
 
-Mayan Astrology
+### Mayan Astrology
 
 https://www.astrodreamadvisor.com/Mayan-Pages.html
 
@@ -1192,12 +1212,12 @@ Term, Proposition, Argument
 
 Syllogisms.  
 Barbara (AAA-1)  
-Celarent (EAE-1)
+Celarent (EAE-1)  
 
-Wikipedia. “Syllogism” `[https://en.wikipedia.org/wiki/Syllogism](https://en.wikipedia.org/wiki/Syllogism)`
+Wikipedia. “Syllogism” `[https://en.wikipedia.org/wiki/Syllogism](https://en.wikipedia.org/wiki/Syllogism)`  
 
 Rhetorical Taxonomies.  
-Logos, Ethos, Pathos
+Logos, Ethos, Pathos  
 
 Arithmetic (Number Theory)  
 Geometry  
@@ -1223,22 +1243,22 @@ Immediate Interpretant (II)
 Dynamic Interpretant (DI)  
 Final Interpretant (FI)
 
+sign relation (monadic) -- Qualisign | Sinsign | Legisign  
+sign-object relation (dyadic) Icon | Index | Symbol  
+sign-object-interpretant relation (triadic) Rheme | Dicisign | Argument
+
+(I) Rhematic Iconic Qualisign  
+(II) Rhematic Iconic Sinsign  
+(III) Rhematic Indexical Sinsign  
+(IV) Dicent Indexical Sinsign  
+(V) Rhematic Iconic Legisign  
+(VI) Rhematic Indexical Legisign  
+(VII) Dicent Indexical Legisign  
+(VIII) Rhematic Symbol Legisign  
+(IX) Dicent Symbol Legisign  
+(X) Argument Symbol Legisign
+
 emotional, energetic, and logical interpretant
-
-Qualisign | Sinsign | Legisign  
-Icon | Index | Symbol  
-Rheme | Dicisign | Argument
-
-(I) Rhematic Iconic **Qualisign  
-**(II) Rhematic **Iconic Sinsign  
-**(III) **Rhematic Indexical Sinsign  
-**(IV) **Dicent** Indexical **Sinsign  
-**(V) Rhematic **Iconic Legisign  
-**(VI) **Rhematic Indexical Legisign  
-**(VII) **Dicent Indexical Legisign  
-**(VIII) **Rhematic Symbol** Legisign  
-(IX) **Dicent Symbol** Legisign  
-(X) **Argument** Symbol Legisign
 
 Wikipedia. “Semiotic theory of Charles Sanders Peirce” `[https://en.wikipedia.org/wiki/Semiotic_theory_of_Charles_Sanders_Peirce](https://en.wikipedia.org/wiki/Semiotic_theory_of_Charles_Sanders_Peirce)`
 
@@ -1290,28 +1310,6 @@ _C. S. Peirce_ — Firstness, Secondness, Thirdness
 _Pliny Chase Elder —_ 
 
 _Peter Roget —_  1st edition upper TOC of Roget’s Thesaurus
-
-- - -
-
-![](https://cdn-images-1.medium.com/max/800/0*5pAV-lRrraIlwilc.jpeg)
-
-- - -
-
-# More on categories
-
-First.
-Second.
-Third.
-Fourth.
-Fifth.
-Sixth.
-Seventh.
-Eighth.
-Ninth.
-Tenth.
-Eleventh.
-Twelth.
-
 
 - - -
 
@@ -1639,10 +1637,11 @@ _Universal adaptive strategy theory_ (Grime’s C-S-R Triangle)
 
 \[Wikipedia, “Life history theory”\] `[https://en.wikipedia.org/wiki/Life_history_theory](https://en.wikipedia.org/wiki/Life_history_theory)`
 
-**Moral foundations theory (**Jonathan Haidt)
+**Moral foundations theory** (Jonathan Haidt)
 
 _Individualizing_ cluster — Care and Fairness  
 _Binding_ cluster — Loyalty, Authority and Sanctity
+_Libertarian cluster_ - Freedom
 
 #### Particle Theory
 
@@ -1680,7 +1679,7 @@ green\_tetrahedron **↦** magenta\_tetrahedron
 
 min 2nd **↦** Maj 2nd
 
-/_k_/ **↦ /**_u_**/ ↦ /**_t_/
+/_k_/ **↦** /_u_/ **↦** /_t_/
 
 - - -
 
@@ -1690,7 +1689,7 @@ min 2nd **↦** Maj 2nd
 
 ### Formal Conceptualization:
 
-_Relations, Concepts Lattices, …_
+_Relations, Incidence, Concepts Lattices, …_
 
 ![](https://cdn-images-1.medium.com/max/400/1*b4Gi0fkAtoiU9tAnsnSWeg.jpeg)
 
@@ -1704,7 +1703,7 @@ Jürgen Jost. _Mathematical Concepts_ (2015)
 
 - - -
 
-#### Conceptual & Taxonomic Change, Information Flow
+#### Conceptual & Taxonomic Change, Developmental Taxonomy, Information Flow
 
 _the aim here is some like emphasizing developmental morphology of relative functional strata & opponent proccessing — what is a natural completeness of a developmental_ **_consilence_** _toward harmony?_
 
@@ -1713,6 +1712,105 @@ _the aim here is some like emphasizing developmental morphology of relative func
 ![](https://cdn-images-1.medium.com/max/400/1*4OjlrH4dI5IDr-JEWch42w.jpeg)
 
 ![](https://cdn-images-1.medium.com/max/400/1*D9uV6E5-hmKHa_HaBuNgXw.jpeg)
+
+Peirce's Taxonomy of the Sciences. `https://en.wikipedia.org/wiki/Classification_of_the_sciences_(Peirce)`
+
+```
+{| border=1 
+|+ '''Classification of the Sciences of Discovery'''
+|-
+| Classes || Subclasses || Orders 
+| colspan=2 | Other Taxa (suborders, families, etc.) 
+|-
+| valign=top colspan=2 rowspan=3 | I. Mathematics. <br> <br>''The scientific study of hypotheses which it first frames and then traces to their consequences.''
+| valign=top colspan=3 | A. [[Charles Sanders Peirce#Mathematics of logic|Mathematics of Logic]].
+|-
+| valign=top colspan=3 | B. Mathematics of Discrete Series.
+|-
+| valign=top colspan=3 | C. Mathematics of Continua and Pseudocontinua. <br>''(Note: By "continuum" Peirce meant, until 1908,<ref>See "Peirce's Clarifications of Continuity" by Jérôme Havenel, [https://www.cle.unicamp.br/index.php/sites/default/files/2016-05-13%20A%20-%20Havenel,%20J.%20-%20Perice's%20Clarifications%20of%20%20Continuity.pdf ''Transactions'' Winter 2008] pp. 68-133. From p. 119: "It is on May 26, 1908, that Peirce finally gave up his idea that in every continuum there is room for whatever collection of any multitude. From now on, there are different kinds of continua, which have different properties."</ref> a continuum of instants (as he called them) beyond any [[Georg Cantor|Cantorian]] [[Aleph number|aleph]]'s worth.<ref>Peirce, C.S., "Analysis of the Methods of Mathematical Demonstration", Memoir 4, Draft C, Manuscript L75.90-102, see 99-100, [https://arisbe.sitehost.iu.edu/menu/library/bycsp/L75/ver1/l75v1-02.htm#m4 Eprint]</ref> He held that such a continuum was the true subject matter of that which we now call topology, and that the reals, the complex reals, etc., constituted pseudocontinua.)''
+|-
+| valign=top rowspan=12 | II. Cenoscopy, <br>or [[Charles Sanders Peirce#Philosophy|Philosophy]]. <br> <br>(''Philosophia Prima,'' First Philosophy.) <br> <br>''About positive phenomena in general, such as are available to every person at every waking moment, and not about special classes of phenomena. Does not resort to special experiences or experiments in order to settle theoretical questions.''
+| style="background: #eee" valign=top rowspan=11 | Epistêmy <br>(1902 classification only).<ref name=theoric>CP 1.278 [http://www.textlog.de/4260-2.html Eprint]</ref>
+| valign=top colspan=3 | A. Phenomenology (''or'' [[Categories (Peirce)|Categorics]] ''or'' Phaneroscopy). <br>''(Includes the study of the cenopythagorean [[Categories (Peirce)|categories]]: Firstness, Secondness, and Thirdness).''
+|-
+| valign=top rowspan=5 | B. Normative Science. 
+| valign=top colspan=2 | i. [[Charles Sanders Peirce#Aesthetics and ethics|Esthetics]]. ''(Study of the good, the admirable. Peirce reserved the spelling "aesthetics" for the study of artistic beauty.)''
+|-
+| valign=top colspan=2 | ii. [[Charles Sanders Peirce#Aesthetics and ethics|Ethics]]. ''(Study of right and wrong).''
+|-
+| valign=top rowspan=3 width="12%" | iii. [[Charles Sanders Peirce#Philosophy: logic, or semiotic|Logic]] <br>(''or'' Semiotic ''or'' Formal Semiotic). ''(Study of true and false.)'' 
+''(The presuppositions of reason are the locus of Peirce's truth theory and his fallibilism.)''
+| width="34%" | 1. [[Charles Sanders Peirce#Classes of signs|Speculative Grammar]] <br>(''or'' Philosophical ''or'' Universal Grammar) <br>(''or'' Stechiology)  <br>''(Includes the classification of signs).''
+|-
+| 2. [[Charles Sanders Peirce#Modes of inference|Critic]] <br>(''or'' Logical Critic, Critical Logic, ''or'' Logic Proper). <br>''(Includes study of the modes of inference: abduction, induction, and deduction).''
+|-
+|3. [[Charles Sanders Peirce#Pragmatism|Methodeutic]] <br>(''or'' Speculative Rhetoric, <br>''or'' Universal ''or'' Philosophical Rhetoric). <br>''(Is the locus of Peirce's [[Charles Sanders Peirce#Pragmatism|Pragmatism]], and includes study of scientific method).''
+|-
+| valign=top rowspan=5 | C. [[Charles Sanders Peirce#Philosophy: metaphysics|Metaphysics]]. 
+| valign=top colspan=2 | i. Ontology or General. ''(Locus of Peirce's Scholastic Realism.)''
+|-
+| valign=top rowspan=3 | ii. Psychical or Religious. 
+|1. God.
+|-
+|2. freedom ''(&amp; destiny)''. 
+|-
+|3. immortality.
+|-
+| valign=top colspan=2 | iii. Physical. ''(Locus of Peirce's Objective Idealism and his doctrines that physical space, time, and law are continuous, and that chance, mechanical necessity, and creative love are physically real and involve corresponding modes of universal evolution.)''
+|-
+| style="background: #eee" valign=top colspan=2 | Theôric (1902 classification only). <br>''Peirce:'' "...[theôrics] only resort to special observation to settle some minute details, concerning which the testimony of general experience is possibly insufficient."<ref name=theoric />
+| style="background: #eee" valign=top colspan=2 | Chronotheory & <br>Topotheory <br>(1902 only)
+|-
+| valign=top rowspan=16 | III. Idioscopy, <br>or the Special Sciences. <br> <br>''About special classes of positive phenomena. Resorts to special experience or experiments in order to settle theoretical questions.''
+| valign=top rowspan=7 | [?]. Physical. 
+| valign=top rowspan=3 | i. Nomological or General. 
+| valign=top | i. Molar Physics. 
+|Dynamics & <br>Gravitation. 
+|-
+| valign=top | ii. Molecular Physics. 
+|Elaterics (elasticity, expansibility<ref>Compare with obsolete sense 1 in the 1911 ''Century Dictionary'' definition of ''[[wikt:elater|elater]]'':<blockquote>'''1.†''' Elasticity; especially the expansibility of a gas.<br>It may be said that the swelling, of the compressed water in the pewter vessel lately mentioned, and the springing up of the water at the hole made by the needle, were not the effects of an internal ''elater'' of the water, but of the spring of the many little particles of air dispersed through that water. ''Boyle'', Spring of the Air, Exp. xxii.</blockquote></ref>) & <br>Thermodynamics. 
+|-
+| valign=top | iii. Ethereal Physics. 
+|Optics & <br>Electrics.
+|-
+| valign=top rowspan=3 | ii. Classificatory. <br>''Peirce in the 1903 Syllabus classification:''<ref>The CP 1.194 [https://web.archive.org/web/20111105121054/http://www.princeton.edu/~batke/peirce/cl_o_sci_03.htm  Eprint]</ref> "Classificatory physics seems, at present, as a matter of fact, to be divided, quite irrationally and most unequally, into i, Crystallography; ii, Chemistry; iii, Biology."
+| valign=top colspan=2 | i. Crystallography 
+|-
+| valign=top | ii. Chemistry. 
+|1. Physical. <br>2. Organic. 
+:Aliphatic &amp; Aromatic.
+3. Inorganic <br>''(elements, atomic weights, compounds, periodicity, etc.)''
+|-
+| valign=top | iii. Biology. 
+|1. Physiology. <br>2. Anatomy. 
+|-
+| valign=top | iii. Descriptive.
+| valign=top colspan=2 | Geognosy & Astronomy.
+|-
+| valign=top rowspan=7 | [?]. Psychical.
+| valign=top | i. Nomological Psychics, <br>or Psychology.
+| valign=top colspan=2 | i. Introspectional. <br>ii. Experimental. <br>iii. Physiological. <br>iv. Child.
+|-
+| valign=top rowspan=3 | ii. Classificatory Psychics, <br>or Ethnology.
+| valign=top | 1. Special Psychology.
+|1. Individual Psychology. 2. Psychical Heredity. <br>3. Abnormal Psychology. 4. Mob Psychology. <br>5. Race Psychology. 6. Animal Psychology.
+|-
+| valign=top | 2. Linguistics.
+| valign=top | 1. Word Linguistics. <br>2. Grammar ("should be a comparative science of forms of composition"<ref>CP 1.200 (from "An Outline Classification of the Sciences" 1903) [https://web.archive.org/web/20111105121054/http://www.princeton.edu/~batke/peirce/cl_o_sci_03.htm  Eprint]</ref>)
+|-
+| valign=top | 3. Ethnology.
+|1. Ethnology of Social Developments, customs, laws, religion, and tradition. <br>2. Ethnology of Technology.
+|-
+| valign=top rowspan=3 | iii. Descriptive Psychics, <br>or History.
+| valign=top colspan=2 | 1. History proper.
+|-
+| colspan=2 | 2. Biography ("which at present is rather a mass of lies than a science"<ref>CP 1.201 (from "An Outline Classification of the Sciences" 1903) [https://web.archive.org/web/20111105121054/http://www.princeton.edu/~batke/peirce/cl_o_sci_03.htm  Eprint].</ref>)
+|-
+| valign=top | 3. Criticism 
+|1. Literary criticism <br>2. Art criticism (''criticism of military operations, criticism of architecture, etc.'')
+|}
+```
+
 
   
 
@@ -1726,36 +1824,23 @@ _the aim here is some like emphasizing developmental morphology of relative func
 
 - - -
 
-> “These were the first leaks in a dam that had been holding back human  
-> thought. The next decades saw a flood of research in geometry and the  
-> creation of a great profusion of geometric systems. The traditional meaning of geometry could not encompass the new wealth of phenomena. A revised understanding of the nature of geometry was urgently needed.
+```
+> "These were the first leaks in a dam that had been holding back human thought. The next decades saw a flood of research in geometry and the creation of a great profusion of geometric systems. The traditional meaning of geometry could not encompass the new wealth of phenomena. A revised understanding of the nature of geometry was urgently needed.
 
 > The basis for this new understanding came from a subject invented at nearly the same time as non-Euclidean geometry — the theory of groups. Unlike the questions surrounding the Fifth Postulate which were in the minds of many mathematicians at the time, group theory was the invention of one extraordinary individual, Evariste Galois.
 
-> Galois was too smart for his own good. A student revolutionary who once  
-> toasted the king of France by burying a knife in a table, he died in a duel  
-> over a woman at the age of twenty-two. That was in 1832, the same year  
-> as Bolyai’s publication on non-Euclidean geometry. Fortunately for mathematics, Galois spent the night before the duel furiously writing down his  
-> ideas about groups and their applications to solving polynomial equations.  
-> Galois’ ideas were hard for his contemporary mathematicians to understand.  
-> However, they did get studied and appreciation for their power gradually  
-> percolated through the mathematical community during the same period  
-> when geometric research was roaring full throttle. Indeed, a realization of  
-> the relevance of group theory to geometry began to grow, with groups arising  
-> from symmetries — transformations of a system which preserve the essential  
-> characteristics of the system.
+> Galois was too smart for his own good. A student revolutionary who once toasted the king of France by burying a knife in a table, he died in a duel  
+> over a woman at the age of twenty-two. That was in 1832, the same year as Bolyai’s publication on non-Euclidean geometry. Fortunately for mathematics, Galois spent the night before the duel furiously writing down his ideas about groups and their applications to solving polynomial equations. Galois’ ideas were hard for his contemporary mathematicians to understand. However, they did get studied and appreciation for their power gradually percolated through the mathematical community during the same period when geometric research was roaring full throttle. Indeed, a realization of the relevance of group theory to geometry began to grow, with groups arising from symmetries — transformations of a system which preserve the essential characteristics of the system.
 
 > The seminal connection between geometry and group theory was discovered by Felix Klein. It was the custom in German universities of that era for new professors to give an inaugural lecture on their research to the full faculty. In 1872, at the University of Erlanger, Felix Klein, then only twenty-three years old, presented to his colleagues striking ideas about how to unify geometry by means of symmetry via group theory. This proposal has become known as Klein’s **Erlanger Programme**. Klein’s first observation was that geometry is not about individual figures but about classes of equivalent figures. For example, in Euclidean geometry there is a notion of congruence. Any two congruent figures are “the same” from the point of view of Euclidean geometry — they have the same geometric properties. Furthermore, you can tell if two figures are congruent by transforming or moving one so that it becomes (more correctly, coincides with) the other. The transformation you use should be a rigid motion, i.e., it should preserve distances and angles.
 
-> Thus, at the core of Euclidean geometry, as well as at the core of most  
-> other geometries constructed after 1830, there was a notion of geometric  
-> equivalence, defined by a specified collection of transformations known as the symmetries of the geometry. (In Euclid’s Elements, this idea was somewhat hidden and never explicitly acknowledged, but the attentive reader can see it used at certain critical places.) Klein further observed that
+> Thus, at the core of Euclidean geometry, as well as at the core of most other geometries constructed after 1830, there was a notion of geometric equivalence, defined by a specified collection of transformations known as the symmetries of the geometry. (In Euclid’s Elements, this idea was somewhat hidden and never explicitly acknowledged, but the attentive reader can see it used at certain critical places.) Klein further observed that
 
 >  — (i) the set of symmetries formed a group in the sense of Galois and  
 >  — (ii) you can reconstruct the geometry from its symmetry group.
 
-> In short, the fundamental idea in geometry is that of symmetry, and a given  
-> geometry is governed by the nature of its symmetries.”
+> In short, the fundamental idea in geometry is that of symmetry, and a given geometry is governed by the nature of its symmetries.”
+```
 
 - - -
 
