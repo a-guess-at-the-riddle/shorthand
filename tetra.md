@@ -738,9 +738,14 @@ harmonic conjugate.
 
 Desargues' Theorem.
 
-Daniel Hafner. Projective Morphology `https://youtube.com/playlist?list=PLFp3HmTzI8EKGsUVSBgRm3nd0qhSgfHLa&si=bTbTLdH-dcjhfcIW`
-Vijay Ravikumar (NPTEL-NOC IITM). The Geometry of Vision `https://this-vijay.github.io/vision-math/`
-Projective Geometry Lecture Course. `https://youtube.com/playlist?list=PLTbNOsqwf3svLp0bC_AWQeq9VRLa_cJqk&si=LLkPj5kTCJn4VJyj`
+Bill Shillito. Putting Algebraic Curves in Perspective `https://youtu.be/XXzhqStLG-4?si=xpp4cO40qYYDoqV0`  
+Daniel Hafner. Projective Morphology `https://youtube.com/playlist?list=PLFp3HmTzI8EKGsUVSBgRm3nd0qhSgfHLa&si=bTbTLdH-dcjhfcIW`  
+Vijay Ravikumar (NPTEL-NOC IITM). The Geometry of Vision `https://this-vijay.github.io/vision-math/`  
+Projective Geometry Lecture Course. `https://youtube.com/playlist?list=PLTbNOsqwf3svLp0bC_AWQeq9VRLa_cJqk&si=LLkPj5kTCJn4VJyj`  
+
+Ash, Avner, and Robert Gross. Elliptic Tales: Curves, Counting, and Number Theory. Princeton, NJ: Princeton University Press, 2014.  
+Brady, Zarathustra Elezar. “Cross Ratios.” MIT Mathematics. Accessed November 24, 2019. https://math.mit.edu/~notzeb/cross.pdf.  
+Coxeter, H. S. M. Projective Geometry. New York: Springer, 2003.  
 
 - - -
 
