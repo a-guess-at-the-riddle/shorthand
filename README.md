@@ -394,6 +394,8 @@ to navigate the perspective relation space (2D letterspace) of that 3D gesturefo
 4. (Icosa) Consonant/Vowel Alphabet
 5. (Dodeca) Featural Alphabet
 
+   ...what about Renaissance style emblems? and corresponding mnemonic poems organized into an abcedarian text?
+
 - semantic zoom Github curation (@prathyvsh): https://github.com/prathyvsh/semantic-zoom
 ---
 
