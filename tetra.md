@@ -1541,7 +1541,12 @@ Harry F. Olson. _Dynamical Analogies_, 2nd ed. (1943, 1958).
 
 Douglas Flemmons. _Completing Distinctions: Interweaving the Ideas of Gregory Bateson and Taoism into a unique approach to therapy_ (2001)
 
-  
+Gabriel Kron. https://en.wikipedia.org/wiki/Gabriel_Kron
+https://en.wikipedia.org/wiki/Diakoptics
+
+Madden, T. R. (1972). Transmission systems and network analogies to geophysical forward and inverse problems (MIT Tech. Rep. 72‑3). Massachusetts Institute of Technology. https://www.mtnet.info/papers/ClassicPapers/Madden_1972_TechRep72-3.pdf
+
+
 
 - - -
 
