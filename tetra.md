@@ -1544,9 +1544,37 @@ Douglas Flemmons. _Completing Distinctions: Interweaving the Ideas of Gregory Ba
 Gabriel Kron. https://en.wikipedia.org/wiki/Gabriel_Kron
 https://en.wikipedia.org/wiki/Diakoptics
 
+- - -
+
+### Vector Calculus, Circuit Theory, Nonlinear Network Theory, Tensors, Tensor Networks
+
+https://en.wikipedia.org/wiki/Vector_calculus
+
+Susan J. Colley and Santiago Cañez. Vector Calculus, 5th edition
+Marsden, J. E. (1976). Vector Calculus. W. H. Freeman & Company.
+Schey, H. M. (2005). Div Grad Curl and all that: An informal text on vector calculus. W. W. Norton & Company.
+
+
+Crowe, Michael J. (1967). A History of Vector Analysis : The Evolution of the Idea of a Vectorial System (reprint ed.). Dover Publications.
+
+
+Leon O. Chua. Introduction to Nonlinear Network Theory
+  
+Kron, G. (1939). Tensor Analysis of Networks. MIT Press.
+Kron, G. (1950). Equivalent Circuits of Electrical Networks. Wiley.
+Kron, G. (1963). Diakoptics: The Piecewise Solution of Large-Scale Systems. Macmillan.
+
 Madden, T. R. (1972). Transmission systems and network analogies to geophysical forward and inverse problems (MIT Tech. Rep. 72‑3). Massachusetts Institute of Technology. https://www.mtnet.info/papers/ClassicPapers/Madden_1972_TechRep72-3.pdf
 
 
+
+- - -
+
+### Gyroscopes & Inertial Guidance Systems
+
+![Gyroscope_operation](https://github.com/user-attachments/assets/0e3b5837-5fdc-4074-8412-839ef5a0f2fe)
+
+https://en.wikipedia.org/wiki/Gyroscope
 
 - - -
 
